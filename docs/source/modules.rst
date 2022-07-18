@@ -1,3 +1,15 @@
+ABAQUS
+------ 
+
+
+
+**Available Versions**:: 
+
+
+    2020
+    6.19-1
+    2021
+
 
 
 ABINIT
@@ -150,23 +162,11 @@ ANSYS
 
 
 
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
-
-
 **Available Versions**:: 
 
 
-    2021R2
     2022R1
+    2021R2
 
 
 
@@ -190,8 +190,8 @@ https://www.antlr2.org/
 **Available Versions**:: 
 
 
-    2.7.7-GCCcore-10.2.0-Java-11
     2.7.7-GCCcore-10.3.0-Java-11
+    2.7.7-GCCcore-10.2.0-Java-11
 
 
 
@@ -263,8 +263,8 @@ https://wiki.fysik.dtu.dk/ase
 **Available Versions**:: 
 
 
-    3.20.1-foss-2020b
     3.22.0-foss-2021a
+    3.20.1-foss-2020b
 
 
 
@@ -288,11 +288,11 @@ https://developer.gnome.org/atk/
 **Available Versions**:: 
 
 
+    2.34.1-GCCcore-8.3.0
+    2.28.1-foss-2018b
+    2.32.0-GCCcore-8.2.0
     2.36.0-GCCcore-10.2.0
     2.36.0-GCCcore-9.3.0
-    2.32.0-GCCcore-8.2.0
-    2.28.1-foss-2018b
-    2.34.1-GCCcore-8.3.0
 
 
 
@@ -390,10 +390,10 @@ https://ambermd.org
 **Available Versions**:: 
 
 
-    18-fosscuda-2019b-AmberTools-19-patchlevel-12-17-Python-2.7.16
-    18-fosscuda-2018b-AmberTools-18-patchlevel-10-8
     18-foss-2019b-AmberTools-19-patchlevel-12-17-Python-2.7.16
+    18-fosscuda-2019b-AmberTools-19-patchlevel-12-17-Python-2.7.16
     18-foss-2018b-AmberTools-18-patchlevel-10-8
+    18-fosscuda-2018b-AmberTools-18-patchlevel-10-8
 
 
 
@@ -442,8 +442,8 @@ https://www.anaconda.com
 **Available Versions**:: 
 
 
-    4.2.0
     2019.10
+    4.2.0
     2019.03
 
 
@@ -468,11 +468,11 @@ https://www.anaconda.com
 **Available Versions**:: 
 
 
-    2020.02
-    2022.05
-    2021.05
     2020.11
+    2022.05
     2021.11
+    2020.02
+    2021.05
 
 
 
@@ -544,8 +544,8 @@ https://arrow.apache.org
 **Available Versions**:: 
 
 
-    6.0.0-foss-2021b
     0.16.0-foss-2019b-Python-3.7.4
+    6.0.0-foss-2021b
 
 
 
@@ -665,15 +665,15 @@ https://www.gnu.org/software/autoconf/
 **Available Versions**:: 
 
 
-    2.69-GCCcore-8.1.0
-    2.69-GCCcore-8.2.0
     2.71-GCCcore-11.3.0
-    2.69-GCCcore-7.3.0
     2.69-GCCcore-10.2.0
-    2.69-GCCcore-9.3.0
-    2.71-GCCcore-11.2.0
+    2.69-GCCcore-8.1.0
     2.69
+    2.69-GCCcore-8.2.0
+    2.69-GCCcore-7.3.0
     2.71-GCCcore-10.3.0
+    2.71-GCCcore-11.2.0
+    2.69-GCCcore-9.3.0
     2.69-GCCcore-8.3.0
 
 
@@ -698,16 +698,16 @@ https://www.gnu.org/software/automake/automake.html
 **Available Versions**:: 
 
 
-    1.16.1-GCCcore-7.3.0
-    1.16.1-GCCcore-8.2.0
-    1.16.5-GCCcore-11.3.0
-    1.16.1-GCCcore-8.1.0
-    1.16.1-GCCcore-8.3.0
-    1.16.1-GCCcore-10.2.0
-    1.16.1-GCCcore-9.3.0
-    1.16.2-GCCcore-10.2.0
     1.16.3-GCCcore-10.3.0
+    1.16.1-GCCcore-8.2.0
+    1.16.1-GCCcore-8.1.0
+    1.16.1-GCCcore-10.2.0
+    1.16.5-GCCcore-11.3.0
+    1.16.2-GCCcore-10.2.0
+    1.16.1-GCCcore-8.3.0
     1.16.4-GCCcore-11.2.0
+    1.16.1-GCCcore-7.3.0
+    1.16.1-GCCcore-9.3.0
 
 
 
@@ -725,22 +725,22 @@ This bundle collect the standard GNU build tools: Autoconf, Automake and libtool
 **More Information** 
 
 
-http://autotools.io 
+https://autotools.io 
 
 
 **Available Versions**:: 
 
 
-    20180311-GCCcore-10.2.0
-    20220317-GCCcore-11.3.0
-    20180311-GCCcore-8.3.0
     20180311-GCCcore-9.3.0
-    20180311-GCCcore-8.2.0
-    20210128-GCCcore-10.3.0
     20180311-GCCcore-8.1.0
-    20180311-GCCcore-7.3.0
+    20220317-GCCcore-11.3.0
     20210726-GCCcore-11.2.0
     20200321-GCCcore-10.2.0
+    20180311-GCCcore-8.3.0
+    20180311-GCCcore-8.2.0
+    20180311-GCCcore-7.3.0
+    20180311-GCCcore-10.2.0
+    20210128-GCCcore-10.3.0
 
 
 
@@ -788,8 +788,8 @@ https://www.htslib.org/
 **Available Versions**:: 
 
 
-    1.10.2-GCC-9.3.0
     1.10.2-GCC-8.3.0
+    1.10.2-GCC-9.3.0
     1.11-GCC-10.2.0
     1.9-foss-2018b
 
@@ -815,8 +815,8 @@ https://bedtools.readthedocs.io/
 **Available Versions**:: 
 
 
-    2.29.2-GCC-9.3.0
     2.29.2-GCC-8.3.0
+    2.29.2-GCC-9.3.0
 
 
 
@@ -858,19 +858,19 @@ Basic Local Alignment Search Tool, or BLAST, is an algorithm for comparing prima
 **More Information** 
 
 
-https://blast.ncbi.nlm.nih.gov/ 
+http://blast.ncbi.nlm.nih.gov/ 
 
 
 **Available Versions**:: 
 
 
-    2.9.0-iimpi-2019b
-    2.10.1-iimpi-2020a
-    2.9.0-gompi-2021a
     2.7.1-foss-2018b
-    2.11.0-gompi-2020b
+    2.9.0-gompi-2021a
     2.9.0-gompi-2019b
     2.11.0-gompi-2021a
+    2.9.0-iimpi-2019b
+    2.10.1-iimpi-2020a
+    2.11.0-gompi-2020b
 
 
 
@@ -918,8 +918,8 @@ https://github.com/flame/blis/
 **Available Versions**:: 
 
 
-    0.9.0-GCC-11.3.0
     0.8.1-GCC-11.2.0
+    0.9.0-GCC-11.3.0
 
 
 
@@ -1043,11 +1043,11 @@ https://bazel.io/
 **Available Versions**:: 
 
 
-    3.6.0-GCCcore-9.3.0
-    3.7.2-GCCcore-10.2.0
     3.7.2-GCCcore-11.2.0
+    3.6.0-GCCcore-9.3.0
     0.26.1-GCCcore-8.3.0
     0.29.1-GCCcore-8.3.0
+    3.7.2-GCCcore-10.2.0
     3.7.2-GCCcore-10.3.0
 
 
@@ -1072,8 +1072,8 @@ http://beast2.org/
 **Available Versions**:: 
 
 
-    2.5.2-GCC-7.3.0-2.30
     2.5.2-GCC-8.2.0-2.31.1
+    2.5.2-GCC-7.3.0-2.30
 
 
 
@@ -1117,32 +1117,32 @@ Bison is a general-purpose parser generator that converts an annotated context-f
 **More Information** 
 
 
-https://www.gnu.org/software/bison 
+http://www.gnu.org/software/bison 
 
 
 **Available Versions**:: 
 
 
-    3.7.1
     3.0.5-GCCcore-8.2.0
-    3.3.2
-    3.0.5-GCCcore-8.1.0
-    3.0.5
-    3.7.1-GCCcore-10.2.0
-    3.0.4-GCCcore-7.3.0
-    3.0.4
-    3.7.6-GCCcore-11.2.0
-    3.0.5-GCCcore-8.3.0
-    3.8.2
-    3.7.6
-    3.0.4-GCCcore-8.1.0
-    3.0.5-GCCcore-7.3.0
-    3.3.2-GCCcore-8.3.0
     3.7.6-GCCcore-10.3.0
     3.8.2-GCCcore-11.3.0
-    3.3.2-GCCcore-9.3.0
+    3.3.2
+    3.8.2
+    3.7.1
+    3.3.2-GCCcore-8.3.0
+    3.0.5
+    3.0.5-GCCcore-7.3.0
+    3.0.4
+    3.7.6
+    3.0.5-GCCcore-8.3.0
+    3.7.1-GCCcore-10.2.0
     3.5.3-GCCcore-9.3.0
+    3.7.6-GCCcore-11.2.0
     3.5.3
+    3.3.2-GCCcore-9.3.0
+    3.0.4-GCCcore-7.3.0
+    3.0.5-GCCcore-8.1.0
+    3.0.4-GCCcore-8.1.0
 
 
 
@@ -1184,24 +1184,24 @@ Boost provides free peer-reviewed portable C++ source libraries.
 **More Information** 
 
 
-http://www.boost.org/ 
+https://www.boost.org/ 
 
 
 **Available Versions**:: 
 
 
-    1.70.0-gompi-2019a
     1.74.0-iccifort-2020.4.304
-    1.71.0-gompic-2019b
-    1.74.0-GCC-10.2.0
-    1.71.0-iimpi-2019b
-    1.67.0-fosscuda-2018b
     1.71.0-gompi-2019b
+    1.71.0-gompic-2019b
     1.77.0-GCC-11.2.0
-    1.72.0-iimpi-2020a
-    1.67.0-foss-2018b
     1.76.0-GCC-10.3.0
+    1.70.0-gompi-2019a
+    1.67.0-foss-2018b
+    1.67.0-fosscuda-2018b
+    1.71.0-iimpi-2019b
     1.72.0-gompi-2020a
+    1.74.0-GCC-10.2.0
+    1.72.0-iimpi-2020a
 
 
 
@@ -1226,11 +1226,11 @@ http://boostorg.github.io/python
 
 
     1.67.0-foss-2018b-Python-2.7.15
-    1.70.0-gompi-2019a
-    1.71.0-gompi-2019b
     1.71.0-gompic-2019b
-    1.72.0-gompi-2020a
     1.67.0-fosscuda-2018b-Python-2.7.15
+    1.71.0-gompi-2019b
+    1.70.0-gompi-2019a
+    1.72.0-gompi-2020a
 
 
 
@@ -1254,8 +1254,8 @@ http://bowtie-bio.sourceforge.net/index.shtml
 **Available Versions**:: 
 
 
-    1.2.3-GCC-9.3.0
     1.3.1-GCC-11.2.0
+    1.2.3-GCC-9.3.0
 
 
 
@@ -1279,8 +1279,8 @@ http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
 **Available Versions**:: 
 
 
-    2.4.1-GCC-9.3.0
     2.4.5-GCC-11.2.0
+    2.4.1-GCC-9.3.0
     2.3.4.2-foss-2018b
 
 
@@ -1355,8 +1355,8 @@ http://weizhongli-lab.org/cd-hit/
 **Available Versions**:: 
 
 
-    4.8.1-GCC-10.3.0
     4.8.1-GCC-10.2.0
+    4.8.1-GCC-10.3.0
 
 
 
@@ -1429,11 +1429,11 @@ https://www.cgal.org/
 **Available Versions**:: 
 
 
+    4.14.3-gompi-2021a
     4.14.3-iimpi-2020a-Python-3.8.2
     4.14.3-gompi-2020a-Python-3.8.2
     5.2-gompi-2020b
     4.14.1-foss-2019b-Python-3.7.4
-    4.14.3-gompi-2021a
 
 
 
@@ -1505,8 +1505,8 @@ https://proj-clhep.web.cern.ch/proj-clhep/
 **Available Versions**:: 
 
 
-    2.4.4.0-GCC-10.2.0
     2.4.5.1-GCC-11.2.0
+    2.4.4.0-GCC-10.2.0
 
 
 
@@ -1532,18 +1532,18 @@ https://www.cmake.org
 
     3.9.4-GCCcore-9.3.0
     3.20.1-GCCcore-10.3.0
-    3.22.1-GCCcore-11.2.0
-    3.11.4-GCCcore-7.3.0
-    3.12.1-GCCcore-10.2.0
-    3.12.1
-    3.21.1-GCCcore-11.2.0
-    3.12.1-GCCcore-7.3.0
-    3.15.3-GCCcore-8.3.0
-    3.13.3-GCCcore-8.2.0
-    3.23.1-GCCcore-11.3.0
-    3.15.3-GCCcore-7.3.0
     3.16.4-GCCcore-9.3.0
+    3.15.3-GCCcore-7.3.0
+    3.12.1-GCCcore-7.3.0
+    3.12.1-GCCcore-10.2.0
+    3.15.3-GCCcore-8.3.0
+    3.12.1
+    3.11.4-GCCcore-7.3.0
     3.18.4-GCCcore-10.2.0
+    3.22.1-GCCcore-11.2.0
+    3.23.1-GCCcore-11.3.0
+    3.13.3-GCCcore-8.2.0
+    3.21.1-GCCcore-11.2.0
 
 
 
@@ -1567,13 +1567,13 @@ https://www.cp2k.org/
 **Available Versions**:: 
 
 
-    6.1-intel-2020a
-    8.1-foss-2020a
-    7.1-intel-2020b
-    6.1-foss-2019a
     7.1-intel-2020a
-    6.1-foss-2019b
     6.1-foss-2020a
+    6.1-intel-2020a
+    6.1-foss-2019b
+    6.1-foss-2019a
+    7.1-intel-2020b
+    8.1-foss-2020a
 
 
 
@@ -1582,23 +1582,11 @@ CPLEX
 
 
 
-**Description** 
-
-
-IBM ILOG CPLEX Optimizer's mathematical programming technology enables analytical decision support for improving efficiency, reducing costs, and increasing profitability. 
-
-
-**More Information** 
-
-
-https://www.ibm.com/analytics/cplex-optimizer 
-
-
 **Available Versions**:: 
 
 
-    20.1.0-GCCcore-8.3.0
     12.9.0
+    20.1.0-GCCcore-8.3.0
 
 
 
@@ -1646,21 +1634,21 @@ https://developer.nvidia.com/cuda-toolkit
 **Available Versions**:: 
 
 
-    11.3.1
-    11.0.2-GCC-9.3.0
-    10.1.243-GCC-8.3.0
     9.2.88-GCC-7.3.0-2.30
-    11.1.1-iccifort-2020.4.304
-    11.1.1-GCC-10.2.0
-    11.2.2-GCC-10.3.0
-    11.5.1
-    11.6.0
-    11.3.1-GCC-10.3.0
+    11.0.2-GCC-9.3.0
     11.4.1
-    11.4.1-GCC-10.3.0
+    11.1.1-iccifort-2020.4.304
+    11.2.2-GCC-10.3.0
     11.2.2
-    10.1.243-iccifort-2019.5.281
+    10.1.243-GCC-8.3.0
+    11.5.1
+    11.1.1-GCC-10.2.0
+    11.4.1-GCC-10.3.0
     11.5.0
+    11.6.0
+    11.3.1
+    11.3.1-GCC-10.3.0
+    10.1.243-iccifort-2019.5.281
 
 
 
@@ -1684,9 +1672,9 @@ https://developer.nvidia.com/cuda-toolkit
 **Available Versions**:: 
 
 
-    11.0.2
-    11.1.1
     11.2.2
+    11.1.1
+    11.0.2
 
 
 
@@ -1704,16 +1692,16 @@ CVXOPT is a free software package for convex optimization based on the Python pr
 **More Information** 
 
 
-http://cvxopt.org 
+https://cvxopt.org 
 
 
 **Available Versions**:: 
 
 
-    1.2.4-foss-2020a
-    1.2.4-foss-2020a-Python-3.8.2
-    1.2.3-foss-2019a
     1.2.6-foss-2021a
+    1.2.3-foss-2019a
+    1.2.4-foss-2020a-Python-3.8.2
+    1.2.4-foss-2020a
 
 
 
@@ -1812,9 +1800,9 @@ https://libcheck.github.io/check/
 **Available Versions**:: 
 
 
-    0.15.2-GCCcore-9.3.0
     0.15.2-GCCcore-10.2.0
     0.15.2-GCCcore-10.3.0
+    0.15.2-GCCcore-9.3.0
 
 
 
@@ -2007,14 +1995,14 @@ https://www.oracle.com/technetwork/products/berkeleydb
 **Available Versions**:: 
 
 
-    18.1.32-GCCcore-9.3.0
-    18.1.40-GCCcore-10.2.0
-    18.1.40-GCCcore-11.3.0
+    18.1.40-GCCcore-11.2.0
     18.1.32-GCCcore-7.3.0
     18.1.32-GCCcore-8.3.0
-    18.1.32-GCCcore-8.2.0
-    18.1.40-GCCcore-11.2.0
     18.1.40-GCCcore-10.3.0
+    18.1.32-GCCcore-8.2.0
+    18.1.32-GCCcore-9.3.0
+    18.1.40-GCCcore-11.3.0
+    18.1.40-GCCcore-10.2.0
 
 
 
@@ -2038,12 +2026,12 @@ https://dbus.freedesktop.org/
 **Available Versions**:: 
 
 
-    1.13.18-GCCcore-10.3.0
-    1.13.12-GCCcore-8.3.0
     1.13.12-GCCcore-9.3.0
+    1.13.18-GCCcore-10.2.0
     1.13.6-GCCcore-7.3.0
     1.13.8-GCCcore-8.2.0
-    1.13.18-GCCcore-10.2.0
+    1.13.12-GCCcore-8.3.0
+    1.13.18-GCCcore-10.3.0
 
 
 
@@ -2067,8 +2055,8 @@ http://www.thch.uni-bonn.de/tc/index.php?section=downloads&subsection=DFT-D3&lan
 **Available Versions**:: 
 
 
-    3.2.0-intel-2019a
     3.2.0-intel-compilers-2021.2.0
+    3.2.0-intel-2019a
 
 
 
@@ -2092,8 +2080,8 @@ https://github.com/bbuchfink/diamond
 **Available Versions**:: 
 
 
-    0.9.30-GCC-8.3.0
     0.9.30-iccifort-2019.5.281
+    0.9.30-GCC-8.3.0
 
 
 
@@ -2189,12 +2177,12 @@ https://www.doxygen.org
 **Available Versions**:: 
 
 
+    1.8.16-GCCcore-8.3.0
+    1.8.15-GCCcore-8.2.0
     1.9.1-GCCcore-10.3.0
     1.8.17-GCCcore-9.3.0
     1.9.1-GCCcore-11.2.0
-    1.8.16-GCCcore-8.3.0
     1.8.20-GCCcore-10.2.0
-    1.8.15-GCCcore-8.2.0
     1.8.14-GCCcore-7.3.0
 
 
@@ -2243,12 +2231,12 @@ https://elpa.rzg.mpg.de
 **Available Versions**:: 
 
 
-    2021.05.001-intel-2021a
-    2019.11.001-intel-2020a
     2020.11.001-intel-2020b
-    2019.11.001-foss-2020a
-    2020.11.001-foss-2020b
     2018.11.001-intel-2019a
+    2021.05.001-intel-2021a
+    2019.11.001-foss-2020a
+    2019.11.001-intel-2020a
+    2020.11.001-foss-2020b
 
 
 
@@ -2297,19 +2285,19 @@ https://easybuilders.github.io/easybuild
 **Available Versions**:: 
 
 
-    4.5.3
     4.5.5
-    4.4.0
-    4.4.2
-    4.4.1
-    4.3.3
-    4.5.1
-    4.5.2
     4.5.4
+    4.4.1
+    4.3.2
+    4.5.3
+    4.5.1
+    4.6.0
+    4.5.2
     4.5.0
     4.3.4
-    4.3.2
-    4.6.0
+    4.4.0
+    4.3.3
+    4.4.2
 
 
 
@@ -2333,11 +2321,11 @@ https://eigen.tuxfamily.org
 **Available Versions**:: 
 
 
+    3.3.7
+    3.3.9-GCCcore-11.2.0
+    3.3.7-GCCcore-9.3.0
     3.3.9-GCCcore-10.3.0
     3.3.4
-    3.3.7-GCCcore-9.3.0
-    3.3.9-GCCcore-11.2.0
-    3.3.7
     3.3.8-GCCcore-10.2.0
 
 
@@ -2507,21 +2495,21 @@ http://www.fftw.org
 **Available Versions**:: 
 
 
+    3.3.8-gompi-2019b
     3.3.8-intel-2019a
+    3.3.8-gompic-2018b
+    3.3.8-gompic-2019b
+    3.3.8-gompi-2018b
     3.3.8-gompi-2020a
-    3.3.9-intel-2021a
+    3.3.8-gompic-2020b
     3.3.9-gompi-2021a
     3.3.8-gompi-2020b
-    3.3.8-gompic-2020b
-    3.3.8-gompic-2019b
+    3.3.9-intel-2021a
     3.3.8-intel-2020a
-    3.3.10-GCC-11.3.0
-    3.3.10-gompi-2021b
-    3.3.8-gompic-2018b
-    3.3.8-gompi-2018b
-    3.3.8-gompi-2019b
-    3.3.8-gompi-2019a
     3.3.8-intel-2020b
+    3.3.10-gompi-2021b
+    3.3.10-GCC-11.3.0
+    3.3.8-gompi-2019a
     3.3.8-gompic-2020a
 
 
@@ -2570,11 +2558,11 @@ https://www.ffmpeg.org/
 **Available Versions**:: 
 
 
-    4.1.3-GCCcore-8.2.0
     4.2.2-GCCcore-9.3.0
+    4.2.1-GCCcore-8.3.0
+    4.1.3-GCCcore-8.2.0
     4.3.2-GCCcore-10.3.0
     4.3.1-GCCcore-10.2.0
-    4.2.1-GCCcore-8.3.0
 
 
 
@@ -2622,8 +2610,8 @@ https://xiph.org/flac/
 **Available Versions**:: 
 
 
-    1.3.3-GCCcore-11.2.0
     1.3.3-GCCcore-10.3.0
+    1.3.3-GCCcore-11.2.0
     1.3.3-GCCcore-10.2.0
 
 
@@ -2721,8 +2709,8 @@ https://www.fltk.org
 **Available Versions**:: 
 
 
-    1.3.5-GCCcore-10.2.0
     1.3.5-GCC-8.3.0
+    1.3.5-GCCcore-10.2.0
 
 
 
@@ -2868,8 +2856,8 @@ https://www.palletsprojects.com/p/flask/
 
 
     1.1.2-GCCcore-8.3.0-Python-3.7.4
-    1.1.2-GCCcore-10.2.0
     1.1.4-GCCcore-10.3.0
+    1.1.2-GCCcore-10.2.0
 
 
 
@@ -2893,9 +2881,9 @@ https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release
 **Available Versions**:: 
 
 
-    3.2.0-GCC-11.3.0
     3.0.4-GCC-10.3.0
     3.0.4-GCC-11.2.0
+    3.2.0-GCC-11.3.0
 
 
 
@@ -2943,12 +2931,12 @@ https://github.com/fribidi/fribidi
 **Available Versions**:: 
 
 
-    1.0.5-GCCcore-7.3.0
     1.0.10-GCCcore-10.2.0
     1.0.5-GCCcore-8.2.0
+    1.0.5-GCCcore-7.3.0
     1.0.10-GCCcore-10.3.0
-    1.0.9-GCCcore-9.3.0
     1.0.5-GCCcore-8.3.0
+    1.0.9-GCCcore-9.3.0
 
 
 
@@ -2966,15 +2954,15 @@ The Genome Analysis Toolkit or GATK is a software package developed at the Broad
 **More Information** 
 
 
-https://www.broadinstitute.org/gatk/ 
+http://www.broadinstitute.org/gatk/ 
 
 
 **Available Versions**:: 
 
 
-    4.1.5.0-GCCcore-9.3.0-Java-1.8
-    4.1.8.1-GCCcore-9.3.0-Java-1.8
     3.8-1-Java-1.8.0_241
+    4.1.8.1-GCCcore-9.3.0-Java-1.8
+    4.1.5.0-GCCcore-9.3.0-Java-1.8
 
 
 
@@ -2992,20 +2980,20 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
 **More Information** 
 
 
-http://gcc.gnu.org/ 
+https://gcc.gnu.org/ 
 
 
 **Available Versions**:: 
 
 
-    8.1.0-2.30
-    11.3.0
     9.3.0
-    8.3.0
-    11.2.0
-    10.2.0
     8.2.0-2.31.1
     10.3.0
+    11.3.0
+    11.2.0
+    8.3.0
+    10.2.0
+    8.1.0-2.30
     7.3.0-2.30
 
 
@@ -3030,15 +3018,15 @@ https://gcc.gnu.org/
 **Available Versions**:: 
 
 
-    8.2.0
-    9.3.0
-    10.3.0
     10.2.0
-    11.3.0
     7.3.0
-    8.1.0
     11.2.0
+    10.3.0
     8.3.0
+    8.1.0
+    9.3.0
+    11.3.0
+    8.2.0
 
 
 
@@ -3087,11 +3075,11 @@ https://www.gdal.org
 
 
     3.2.1-fosscuda-2020b
-    3.0.4-foss-2020a-Python-3.8.2
-    3.3.0-foss-2021a
+    3.0.0-foss-2019a-Python-2.7.15
     3.0.4-intel-2020a-Python-3.8.2
     3.3.2-foss-2021b
-    3.0.0-foss-2019a-Python-2.7.15
+    3.3.0-foss-2021a
+    3.0.4-foss-2020a-Python-3.8.2
 
 
 
@@ -3116,10 +3104,10 @@ https://github.com/NVIDIA/gdrcopy
 
 
     2.1-GCCcore-10.3.0-CUDA-11.1.1
-    2.1-GCCcore-10.2.0-CUDA-11.1.1
+    2.3-GCCcore-11.2.0
     2.1-GCCcore-9.3.0-CUDA-11.0.2
     2.2-GCCcore-10.3.0
-    2.3-GCCcore-11.2.0
+    2.1-GCCcore-10.2.0-CUDA-11.1.1
 
 
 
@@ -3143,14 +3131,14 @@ https://trac.osgeo.org/geos
 **Available Versions**:: 
 
 
-    3.9.1-GCC-10.2.0
     3.9.1-GCC-11.2.0
-    3.6.2-foss-2018b-Python-2.7.15
-    3.8.0-GCC-8.3.0-Python-3.7.4
-    3.8.1-GCC-9.3.0-Python-3.8.2
-    3.8.1-iccifort-2020.1.217-Python-3.8.2
+    3.9.1-GCC-10.2.0
     3.9.1-GCC-10.3.0
     3.7.2-foss-2019a-Python-2.7.15
+    3.8.1-iccifort-2020.1.217-Python-3.8.2
+    3.8.0-GCC-8.3.0-Python-3.7.4
+    3.6.2-foss-2018b-Python-2.7.15
+    3.8.1-GCC-9.3.0-Python-3.8.2
 
 
 
@@ -3174,8 +3162,8 @@ https://www.geuz.org/gl2ps/
 **Available Versions**:: 
 
 
-    1.4.0-GCCcore-8.3.0
     1.4.2-GCCcore-11.2.0
+    1.4.0-GCCcore-8.3.0
 
 
 
@@ -3199,8 +3187,8 @@ https://github.com/g-truc/glm
 **Available Versions**:: 
 
 
-    0.9.9.8-GCCcore-8.3.0
     0.9.9.8-GCCcore-9.3.0
+    0.9.9.8-GCCcore-8.3.0
 
 
 
@@ -3224,11 +3212,11 @@ https://www.gnu.org/software/glpk/
 **Available Versions**:: 
 
 
+    4.65-GCCcore-8.3.0
     4.65-GCCcore-9.3.0
+    4.65-GCCcore-10.2.0
     5.0-GCCcore-11.2.0
     5.0-GCCcore-10.3.0
-    4.65-GCCcore-10.2.0
-    4.65-GCCcore-8.3.0
 
 
 
@@ -3253,12 +3241,12 @@ http://www.gtk.org/
 
 
     2.54.3-GCCcore-7.3.0
-    2.69.1-GCCcore-11.2.0
-    2.64.1-GCCcore-9.3.0
-    2.62.0-GCCcore-8.3.0
     2.68.2-GCCcore-10.3.0
     2.66.1-GCCcore-10.2.0
     2.60.1-GCCcore-8.2.0
+    2.64.1-GCCcore-9.3.0
+    2.62.0-GCCcore-8.3.0
+    2.69.1-GCCcore-11.2.0
 
 
 
@@ -3330,14 +3318,14 @@ https://gmplib.org/
 **Available Versions**:: 
 
 
-    6.2.0-GCCcore-10.2.0
-    6.2.1-GCCcore-10.3.0
-    6.2.0-GCCcore-9.3.0
-    6.1.2-GCCcore-8.2.0
     6.1.2-GCCcore-8.3.0
-    6.1.2-GCCcore-7.3.0
     6.1.2-GCCcore-10.2.0
+    6.2.0-GCCcore-9.3.0
+    6.2.0-GCCcore-10.2.0
     6.2.1-GCCcore-11.2.0
+    6.2.1-GCCcore-10.3.0
+    6.1.2-GCCcore-8.2.0
+    6.1.2-GCCcore-7.3.0
 
 
 
@@ -3362,11 +3350,11 @@ https://gi.readthedocs.io/en/latest/
 
 
     1.68.0-GCCcore-10.3.0
-    1.54.1-foss-2018b-Python-2.7.15
-    1.64.0-GCCcore-9.3.0-Python-3.8.2
-    1.66.1-GCCcore-10.2.0
-    1.63.1-GCCcore-8.3.0-Python-3.7.4
     1.60.1-GCCcore-8.2.0-Python-3.7.2
+    1.63.1-GCCcore-8.3.0-Python-3.7.4
+    1.64.0-GCCcore-9.3.0-Python-3.8.2
+    1.54.1-foss-2018b-Python-2.7.15
+    1.66.1-GCCcore-10.2.0
 
 
 
@@ -3390,8 +3378,8 @@ https://wiki.fysik.dtu.dk/gpaw/
 **Available Versions**:: 
 
 
-    20.10.0-foss-2020b
     21.6.0-foss-2021a
+    20.10.0-foss-2020b
 
 
 
@@ -3427,25 +3415,25 @@ GROMACS
 **Description** 
 
 
-GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles.This is a GPU enabled build, containing both MPI and threadMPI binaries. 
+GROMACS is a versatile package to perform molecular dynamics, i.e. simulate theNewtonian equations of motion for systems with hundreds to millions ofparticles.This is a CPU only build, containing both MPI and threadMPI buildsfor both single and double precision.It also contains the gmxapi extension for the single precision MPI build. 
 
 
 **More Information** 
 
 
-http://www.gromacs.org 
+https://www.gromacs.org 
 
 
 **Available Versions**:: 
 
 
+    2022.2-foss-2021a
+    2020.4-foss-2020a
+    2020.4-foss-2020a-PLUMED-2.6.2
+    2021-foss-2020b
     2020-fosscuda-2019b
     2021.3-foss-2021a
-    2020.4-foss-2020a-PLUMED-2.6.2
     2021-foss-2021a-PLUMED-2.7.2
-    2021-foss-2020b
-    2020.4-foss-2020a
-    2022.2-foss-2021a
 
 
 
@@ -3463,21 +3451,21 @@ The GNU Scientific Library (GSL) is a numerical library for C and C++ programmer
 **More Information** 
 
 
-http://www.gnu.org/software/gsl/ 
+https://www.gnu.org/software/gsl/ 
 
 
 **Available Versions**:: 
 
 
-    2.5-GCC-7.3.0-2.30
-    2.5-GCC-8.2.0-2.31.1
-    2.6-iccifort-2020.4.304
-    2.7-GCC-10.3.0
     2.6-iccifort-2020.1.217
-    2.6-GCC-9.3.0
+    2.5-GCC-8.2.0-2.31.1
+    2.7-GCC-11.2.0
+    2.5-GCC-7.3.0-2.30
     2.6-GCC-8.3.0
     2.6-GCC-10.2.0
-    2.7-GCC-11.2.0
+    2.7-GCC-10.3.0
+    2.6-iccifort-2020.4.304
+    2.6-GCC-9.3.0
 
 
 
@@ -3550,9 +3538,9 @@ https://developer.gnome.org/gtk3/stable/
 
 
     3.24.13-GCCcore-8.3.0
+    2.24.32-foss-2018b
     3.24.17-GCCcore-9.3.0
     3.24.8-GCCcore-8.2.0
-    2.24.32-foss-2018b
     3.24.23-GCCcore-10.2.0
 
 
@@ -3589,18 +3577,6 @@ Gaussview
 
 
 
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
-
-
 **Available Versions**:: 
 
 
@@ -3628,8 +3604,8 @@ https://developer.gnome.org/gdk-pixbuf/stable/
 **Available Versions**:: 
 
 
-    2.36.12-foss-2018b
     2.40.0-GCCcore-9.3.0
+    2.36.12-foss-2018b
     2.38.2-GCCcore-8.3.0
     2.38.1-GCCcore-8.2.0
     2.40.0-GCCcore-10.2.0
@@ -3705,10 +3681,10 @@ http://genometools.org
 **Available Versions**:: 
 
 
-    1.6.1-GCC-9.3.0
+    1.6.2-GCC-10.3.0
     1.6.1-GCC-8.3.0
     1.6.1-GCC-10.2.0
-    1.6.2-GCC-10.3.0
+    1.6.1-GCC-9.3.0
 
 
 
@@ -3732,11 +3708,11 @@ https://ghostscript.com
 **Available Versions**:: 
 
 
-    9.52-GCCcore-9.3.0
+    9.54.0-GCCcore-11.2.0
     9.53.3-GCCcore-10.2.0
     9.54.0-GCCcore-10.3.0
+    9.52-GCCcore-9.3.0
     9.50-GCCcore-8.3.0
-    9.54.0-GCCcore-11.2.0
 
 
 
@@ -3779,17 +3755,17 @@ Global Arrays (GA) is a Partitioned Global Address Space (PGAS) programming mode
 **More Information** 
 
 
-https://hpc.pnl.gov/globalarrays 
+http://hpc.pnl.gov/globalarrays 
 
 
 **Available Versions**:: 
 
 
-    5.7.2-foss-2019b-peigs
     5.7-intel-2020b
-    5.8-intel-2020a
-    5.8-intel-2021a
     5.7.2-intel-2019b-peigs
+    5.7.2-foss-2019b-peigs
+    5.8-intel-2021a
+    5.8-intel-2020a
 
 
 
@@ -3920,23 +3896,11 @@ Guppy
 
 
 
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
-
-
 **Available Versions**:: 
 
 
-    3.6.0
     5.0.11
+    3.6.0
 
 
 
@@ -3984,9 +3948,9 @@ https://www.hdfgroup.org/products/hdf4/
 **Available Versions**:: 
 
 
-    4.2.15-GCCcore-11.2.0
-    4.2.14-GCCcore-8.3.0
     4.2.15-GCCcore-10.2.0
+    4.2.14-GCCcore-8.3.0
+    4.2.15-GCCcore-11.2.0
     4.2.15-GCCcore-10.3.0
 
 
@@ -4012,27 +3976,27 @@ https://portal.hdfgroup.org/display/support
 
 
     1.13.1-iimpi-2022a
-    1.10.7-iimpi-2021a
-    1.10.5-gompic-2019b
-    1.10.2-intel-2020b
     1.10.5-iimpic-2019b
-    1.10.5-gompi-2019b
-    1.10.6-gompic-2020a
-    1.10.7-gompic-2020b
-    1.10.7-gompi-2021a
-    1.10.6-iimpi-2020a
-    1.12.1-gompi-2021b
-    1.10.7-gompi-2020b
-    1.10.5-gompi-2019b-dba
-    1.12.1-gompi-2021a
-    1.12.0-gompi-2020a
-    1.10.2-fosscuda-2018b
-    1.10.2-foss-2018b
     1.13.1-gompi-2022a
+    1.12.1-gompi-2021b
+    1.10.7-iimpi-2021a
+    1.10.6-gompic-2020a
+    1.12.0-gompi-2020a
     1.10.5-iimpi-2020a
-    1.10.5-gompi-2019a
+    1.10.7-gompi-2020b
+    1.10.5-gompi-2019b
+    1.10.7-gompic-2020b
+    1.12.1-gompi-2021a
+    1.10.2-intel-2020b
+    1.10.7-gompi-2021a
     1.10.7-iimpi-2020b
     1.10.6-gompi-2020a
+    1.10.6-iimpi-2020a
+    1.10.2-fosscuda-2018b
+    1.10.5-gompi-2019a
+    1.10.5-gompic-2019b
+    1.10.2-foss-2018b
+    1.10.5-gompi-2019b-dba
 
 
 
@@ -4104,9 +4068,9 @@ http://hmmer.org/
 **Available Versions**:: 
 
 
+    3.3.2-gompi-2021a
     3.3.2-gompic-2020b
     3.3.2-gompi-2020b
-    3.3.2-gompi-2021a
     3.3.1-iimpi-2020a
 
 
@@ -4155,10 +4119,10 @@ https://www.htslib.org/
 **Available Versions**:: 
 
 
-    1.14-GCC-11.2.0
     1.11-GCC-10.2.0
     1.10.2-GCC-8.3.0
     1.10.2-GCC-9.3.0
+    1.14-GCC-11.2.0
     1.12-GCC-10.2.0
     1.9-foss-2018b
 
@@ -4184,12 +4148,12 @@ https://www.freedesktop.org/wiki/Software/HarfBuzz
 **Available Versions**:: 
 
 
-    2.6.4-GCCcore-8.3.0
-    2.8.1-GCCcore-10.3.0
     2.2.0-foss-2018b
-    2.6.4-GCCcore-9.3.0
     2.4.0-GCCcore-8.2.0
     2.6.7-GCCcore-10.2.0
+    2.8.1-GCCcore-10.3.0
+    2.6.4-GCCcore-8.3.0
+    2.6.4-GCCcore-9.3.0
 
 
 
@@ -4237,11 +4201,11 @@ https://computation.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-me
 **Available Versions**:: 
 
 
-    2.18.2-foss-2020a
-    2.21.0-foss-2021a
     2.18.2-intel-2020a
-    2.18.2-foss-2019b
+    2.18.2-foss-2020a
     2.20.0-foss-2020b
+    2.18.2-foss-2019b
+    2.21.0-foss-2021a
 
 
 
@@ -4265,13 +4229,13 @@ https://icu-project.org/
 **Available Versions**:: 
 
 
-    66.1-GCCcore-9.3.0
-    61.1-GCCcore-7.3.0
-    69.1-GCCcore-11.2.0
-    64.2-GCCcore-8.3.0
-    67.1-GCCcore-10.2.0
     69.1-GCCcore-10.3.0
     64.2-GCCcore-8.2.0
+    67.1-GCCcore-10.2.0
+    61.1-GCCcore-7.3.0
+    64.2-GCCcore-8.3.0
+    66.1-GCCcore-9.3.0
+    69.1-GCCcore-11.2.0
 
 
 
@@ -4343,8 +4307,8 @@ http://mathgen.stats.ox.ac.uk/impute/impute_v2.html
 **Available Versions**:: 
 
 
-    2.3.2_x86_64_static
     2.3.2_x86_64_dynamic
+    2.3.2_x86_64_static
 
 
 
@@ -4393,8 +4357,8 @@ https://ipython.org/index.html
 **Available Versions**:: 
 
 
-    7.18.1-GCCcore-10.2.0
     7.9.0-foss-2019b-Python-3.7.4
+    7.18.1-GCCcore-10.2.0
 
 
 
@@ -4466,11 +4430,11 @@ https://www.imagemagick.org/
 **Available Versions**:: 
 
 
-    7.0.9-5-GCCcore-8.3.0
-    7.0.11-14-GCCcore-10.3.0
-    7.1.0-4-GCCcore-11.2.0
-    7.0.10-1-GCCcore-9.3.0
     7.0.10-35-GCCcore-10.2.0
+    7.1.0-4-GCCcore-11.2.0
+    7.0.9-5-GCCcore-8.3.0
+    7.0.10-1-GCCcore-9.3.0
+    7.0.11-14-GCCcore-10.3.0
 
 
 
@@ -4530,7 +4494,7 @@ JAGS
 **Description** 
 
 
-JAGS is Just Another Gibbs Sampler.  It is a program for analysis  of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation   
+JAGS is Just Another Gibbs Sampler.  It is a program for analysis of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation   
 
 
 **More Information** 
@@ -4542,10 +4506,10 @@ http://mcmc-jags.sourceforge.net/
 **Available Versions**:: 
 
 
-    4.3.0-foss-2019b
-    4.3.0-foss-2021b
     4.3.0-foss-2021a
+    4.3.0-foss-2019b
     4.3.0-foss-2020a
+    4.3.0-foss-2021b
 
 
 
@@ -4563,21 +4527,21 @@ The JasPer Project is an open-source initiative to provide a free software-based
 **More Information** 
 
 
-https://www.ece.uvic.ca/~frodo/jasper/ 
+http://www.ece.uvic.ca/~frodo/jasper/ 
 
 
 **Available Versions**:: 
 
 
+    1.900.1-intel-2020b
+    2.0.14-GCCcore-8.3.0
     2.0.28-GCCcore-10.3.0
     2.0.33-GCCcore-11.2.0
-    1.900.1-intel-2020b
-    2.0.14-GCCcore-7.3.0
     2.0.14-GCCcore-9.3.0
+    2.0.24-GCCcore-10.2.0
     2.0.14-GCCcore-8.2.0
     2.0.14-GCCcore-10.2.0
-    2.0.24-GCCcore-10.2.0
-    2.0.14-GCCcore-8.3.0
+    2.0.14-GCCcore-7.3.0
 
 
 
@@ -4602,9 +4566,9 @@ https://java.com/
 
 
     1.8.0_131
-    1.8.0_241
     1.7.0_60
     11.0.2
+    1.8.0_241
 
 
 
@@ -4652,11 +4616,11 @@ https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html
 **Available Versions**:: 
 
 
-    1.9.4-GCCcore-9.3.0
-    1.9.4-GCCcore-10.3.0
+    1.9.4-GCCcore-11.2.0
     1.9.3-GCCcore-8.3.0
     1.9.4-GCCcore-10.2.0
-    1.9.4-GCCcore-11.2.0
+    1.9.4-GCCcore-10.3.0
+    1.9.4-GCCcore-9.3.0
 
 
 
@@ -4680,9 +4644,9 @@ http://judy.sourceforge.net/
 **Available Versions**:: 
 
 
+    1.0.5-GCCcore-10.2.0
     1.0.5-GCCcore-8.3.0
     1.0.5-GCCcore-10.3.0
-    1.0.5-GCCcore-10.2.0
 
 
 
@@ -4706,9 +4670,9 @@ https://julialang.org
 **Available Versions**:: 
 
 
+    1.5.1-linux-x86_64
     1.5.3-linux-x86_64
     1.6.2-linux-x86_64
-    1.5.1-linux-x86_64
 
 
 
@@ -4828,9 +4792,9 @@ https://genome.cse.ucsc.edu/
 **Available Versions**:: 
 
 
+    418-GCC-10.3.0
     401-gompi-2019b
     411-GCC-10.2.0
-    418-GCC-10.3.0
 
 
 
@@ -4904,10 +4868,10 @@ http://lame.sourceforge.net/
 
 
     3.100-GCCcore-8.2.0
-    3.100-GCCcore-8.3.0
     3.100-GCCcore-10.2.0
-    3.100-GCCcore-9.3.0
     3.100-GCCcore-10.3.0
+    3.100-GCCcore-9.3.0
+    3.100-GCCcore-8.3.0
 
 
 
@@ -4931,8 +4895,8 @@ https://lammps.sandia.gov/
 **Available Versions**:: 
 
 
-    3Mar2020-foss-2020a-Python-3.8.2-kokkos
     3Mar2020-foss-2020a-Python-3.8.2-kokkos-QUIP
+    3Mar2020-foss-2020a-Python-3.8.2-kokkos
 
 
 
@@ -4956,10 +4920,10 @@ https://www.netlib.org/lapack/
 **Available Versions**:: 
 
 
-    3.9.1-GCC-10.2.0
     3.9.1-GCC-11.2.0
-    3.9.1-GCC-9.3.0
+    3.9.1-GCC-10.2.0
     3.9.1-GCC-10.3.0
+    3.9.1-GCC-9.3.0
 
 
 
@@ -4983,10 +4947,10 @@ https://wiki.dlang.org/LDC
 **Available Versions**:: 
 
 
-    1.28.1-GCCcore-8.3.0
-    1.25.1-GCCcore-10.2.0
-    0.17.6-x86_64
     1.26.0-GCCcore-10.3.0
+    0.17.6-x86_64
+    1.25.1-GCCcore-10.2.0
+    1.28.1-GCCcore-8.3.0
 
 
 
@@ -5011,13 +4975,13 @@ https://llvm.org/
 
 
     8.0.1-GCCcore-8.3.0
-    6.0.0-GCCcore-7.3.0
     12.0.1-GCCcore-11.2.0
+    7.0.1-GCCcore-8.2.0
+    11.0.0-GCCcore-10.2.0
+    9.0.0-GCCcore-8.3.0
+    6.0.0-GCCcore-7.3.0
     11.1.0-GCCcore-10.3.0
     9.0.1-GCCcore-9.3.0
-    7.0.1-GCCcore-8.2.0
-    9.0.0-GCCcore-8.3.0
-    11.0.0-GCCcore-10.2.0
 
 
 
@@ -5041,12 +5005,12 @@ https://symas.com/lmdb
 **Available Versions**:: 
 
 
-    0.9.28-GCCcore-10.3.0
+    0.9.24-GCCcore-8.3.0
     0.9.22-GCCcore-7.3.0
+    0.9.28-GCCcore-10.3.0
+    0.9.29-GCCcore-11.2.0
     0.9.24-GCCcore-9.3.0
     0.9.24-GCCcore-10.2.0
-    0.9.24-GCCcore-8.3.0
-    0.9.29-GCCcore-11.2.0
 
 
 
@@ -5095,8 +5059,8 @@ https://www.oberhumer.com/opensource/lzo/
 **Available Versions**:: 
 
 
-    2.10-GCCcore-10.3.0
     2.10-GCCcore-8.3.0
+    2.10-GCCcore-10.3.0
     2.10-GCCcore-10.2.0
 
 
@@ -5139,18 +5103,18 @@ tiff: Library and tools for reading and writing TIFF data files
 **More Information** 
 
 
-https://libtiff.maptools.org/ 
+https://www.remotesensing.org/libtiff/ 
 
 
 **Available Versions**:: 
 
 
-    4.2.0-GCCcore-10.3.0
-    4.3.0-GCCcore-11.2.0
+    4.0.10-GCCcore-8.2.0
     4.1.0-GCCcore-10.2.0
     4.0.10-GCCcore-8.3.0
     4.0.9-GCCcore-7.3.0
-    4.0.10-GCCcore-8.2.0
+    4.3.0-GCCcore-11.2.0
+    4.2.0-GCCcore-10.3.0
     4.1.0-GCCcore-9.3.0
 
 
@@ -5169,20 +5133,20 @@ Libint library is used to evaluate the traditional (electron repulsion) and cert
 **More Information** 
 
 
-https://github.com/evaleev/libint 
+https://sourceforge.net/p/libint/ 
 
 
 **Available Versions**:: 
 
 
-    2.6.0-iccifort-2020.4.304-lmax-6-cp2k
     1.1.6-GCC-8.2.0-2.31.1
     2.6.0-gompi-2020a-lmax-6-cp2k
-    1.1.6-foss-2020a
-    2.6.0-GCC-10.2.0-lmax-6-cp2k
-    1.1.6-intel-2020a
-    2.6.0-iimpi-2020a-lmax-6-cp2k
     1.1.6-foss-2019b
+    2.6.0-iimpi-2020a-lmax-6-cp2k
+    1.1.6-foss-2020a
+    1.1.6-intel-2020a
+    2.6.0-iccifort-2020.4.304-lmax-6-cp2k
+    2.6.0-GCC-10.2.0-lmax-6-cp2k
 
 
 
@@ -5249,17 +5213,17 @@ Little CMS intends to be an OPEN SOURCE small-footprint color management engine,
 **More Information** 
 
 
-https://www.littlecms.com/ 
+http://www.littlecms.com/ 
 
 
 **Available Versions**:: 
 
 
-    2.11-GCCcore-10.2.0
-    2.12-GCCcore-11.2.0
-    2.12-GCCcore-10.3.0
-    2.9-GCCcore-8.3.0
     2.9-GCCcore-9.3.0
+    2.12-GCCcore-10.3.0
+    2.12-GCCcore-11.2.0
+    2.9-GCCcore-8.3.0
+    2.11-GCCcore-10.2.0
 
 
 
@@ -5283,10 +5247,10 @@ https://www.lua.org/
 **Available Versions**:: 
 
 
-    5.4.2-GCCcore-10.2.0
-    5.1.5-GCCcore-8.3.0
     5.4.3-GCCcore-10.3.0
+    5.4.2-GCCcore-10.2.0
     5.3.5-GCCcore-9.3.0
+    5.1.5-GCCcore-8.3.0
 
 
 
@@ -5304,24 +5268,24 @@ GNU M4 is an implementation of the traditional Unix macro processor. It is mostl
 **More Information** 
 
 
-https://www.gnu.org/software/m4/m4.html 
+http://www.gnu.org/software/m4/m4.html 
 
 
 **Available Versions**:: 
 
 
-    1.4.19
-    1.4.19-GCCcore-11.3.0
-    1.4.18-GCCcore-9.3.0
-    1.4.18-GCCcore-10.3.0
-    1.4.18-GCCcore-7.3.0
     1.4.17
-    1.4.18-GCCcore-8.3.0
+    1.4.18-GCCcore-7.3.0
+    1.4.19-GCCcore-11.3.0
     1.4.19-GCCcore-11.2.0
-    1.4.18-GCCcore-8.2.0
-    1.4.18-GCCcore-10.2.0
+    1.4.18-GCCcore-9.3.0
+    1.4.18-GCCcore-8.3.0
     1.4.18-GCCcore-8.1.0
+    1.4.18-GCCcore-8.2.0
+    1.4.18-GCCcore-10.3.0
     1.4.18
+    1.4.19
+    1.4.18-GCCcore-10.2.0
 
 
 
@@ -5369,10 +5333,10 @@ https://mafft.cbrc.jp/alignment/software/source.html
 **Available Versions**:: 
 
 
-    7.470-gompi-2020a-with-extensions
-    7.487-gompi-2021a-with-extensions
     7.475-gompi-2020b-with-extensions
+    7.487-gompi-2021a-with-extensions
     7.453-GCC-9.3.0-with-extensions
+    7.470-gompi-2020a-with-extensions
 
 
 
@@ -5405,26 +5369,14 @@ MATLAB
 
 
 
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
-
-
 **Available Versions**:: 
 
 
+    R2021b
     R2022a
+    R2019b
     R2020b
     R2020a
-    R2019b
-    R2021b
 
 
 
@@ -5546,12 +5498,12 @@ http://glaros.dtc.umn.edu/gkhome/metis/metis/overview
 **Available Versions**:: 
 
 
+    5.1.0-GCCcore-10.2.0
+    5.1.0-GCCcore-8.2.0
     5.1.0-foss-2018b
     5.1.0-GCCcore-9.3.0
-    5.1.0-GCCcore-8.3.0
-    5.1.0-GCCcore-10.2.0
     5.1.0-GCCcore-10.3.0
-    5.1.0-GCCcore-8.2.0
+    5.1.0-GCCcore-8.3.0
 
 
 
@@ -5651,11 +5603,11 @@ https://www.mpfr.org
 
 
     4.0.2-GCCcore-8.3.0
-    4.0.2-GCCcore-8.2.0
     4.0.2-GCCcore-9.3.0
+    4.1.0-GCCcore-11.2.0
+    4.0.2-GCCcore-8.2.0
     4.1.0-GCCcore-10.2.0
     4.1.0-GCCcore-10.3.0
-    4.1.0-GCCcore-11.2.0
     4.0.1-GCCcore-7.3.0
 
 
@@ -5681,10 +5633,10 @@ https://graal.ens-lyon.fr/MUMPS/
 
 
     5.2.1-foss-2020a-metis
-    5.4.0-foss-2021a-metis
-    5.2.1-foss-2019b-metis
-    5.3.5-foss-2020b-metis
     5.2.1-intel-2020a-metis
+    5.2.1-foss-2019b-metis
+    5.4.0-foss-2021a-metis
+    5.3.5-foss-2020b-metis
 
 
 
@@ -5775,19 +5727,19 @@ A super-fast templating language that borrows the best ideas from the existing t
 **More Information** 
 
 
-https://www.makotemplates.org 
+http://www.makotemplates.org 
 
 
 **Available Versions**:: 
 
 
-    1.1.2-GCCcore-9.3.0
-    1.0.7-foss-2018b-Python-2.7.15
     1.0.8-GCCcore-8.2.0
-    1.1.4-GCCcore-10.3.0
-    1.1.3-GCCcore-10.2.0
+    1.1.2-GCCcore-9.3.0
     1.1.4-GCCcore-11.2.0
     1.1.0-GCCcore-8.3.0
+    1.1.4-GCCcore-10.3.0
+    1.0.7-foss-2018b-Python-2.7.15
+    1.1.3-GCCcore-10.2.0
 
 
 
@@ -5811,9 +5763,9 @@ https://mariadb.org/
 **Available Versions**:: 
 
 
-    10.6.4-GCC-10.3.0
-    10.5.8-GCC-10.2.0
     10.4.13-gompi-2019b
+    10.5.8-GCC-10.2.0
+    10.6.4-GCC-10.3.0
 
 
 
@@ -5870,42 +5822,18 @@ Mathematica
 
 
 
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
-
-
 **Available Versions**:: 
 
 
+    12.2.0
     11.3.0
     13.0.0
-    12.2.0
 
 
 
 Mellanox
 -------- 
 
-
-
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
 
 
 **Available Versions**:: 
@@ -5959,13 +5887,13 @@ https://www.mesa3d.org/
 **Available Versions**:: 
 
 
-    21.1.1-GCCcore-10.3.0
-    19.1.7-GCCcore-8.3.0
-    18.1.1-foss-2018b
     20.0.2-GCCcore-9.3.0
-    21.1.7-GCCcore-11.2.0
-    20.2.1-GCCcore-10.2.0
     19.0.1-GCCcore-8.2.0
+    21.1.7-GCCcore-11.2.0
+    21.1.1-GCCcore-10.3.0
+    18.1.1-foss-2018b
+    19.1.7-GCCcore-8.3.0
+    20.2.1-GCCcore-10.2.0
 
 
 
@@ -5989,12 +5917,12 @@ https://mesonbuild.com
 **Available Versions**:: 
 
 
-    0.58.2-GCCcore-11.2.0
     0.50.0-GCCcore-8.2.0-Python-3.7.2
+    0.55.1-GCCcore-9.3.0-Python-3.8.2
     0.58.0-GCCcore-10.3.0
     0.55.3-GCCcore-10.2.0
-    0.55.1-GCCcore-9.3.0-Python-3.8.2
     0.51.2-GCCcore-8.3.0-Python-3.7.4
+    0.58.2-GCCcore-11.2.0
 
 
 
@@ -6230,18 +6158,18 @@ NASM: General-purpose x86 assembler
 **More Information** 
 
 
-http://www.nasm.us/ 
+https://www.nasm.us/ 
 
 
 **Available Versions**:: 
 
 
-    2.13.03-GCCcore-7.3.0
-    2.14.02-GCCcore-9.3.0
-    2.15.05-GCCcore-10.2.0
     2.15.05-GCCcore-10.3.0
     2.14.02-GCCcore-8.3.0
     2.14.02-GCCcore-8.2.0
+    2.15.05-GCCcore-10.2.0
+    2.13.03-GCCcore-7.3.0
+    2.14.02-GCCcore-9.3.0
     2.15.05-GCCcore-11.2.0
 
 
@@ -6266,12 +6194,12 @@ https://developer.nvidia.com/nccl
 **Available Versions**:: 
 
 
-    2.10.3-GCCcore-11.2.0-CUDA-11.4.1
-    2.8.3-CUDA-11.0.2
-    2.8.3-CUDA-11.1.1
-    2.10.3-GCCcore-10.3.0-CUDA-11.3.1
     2.8.3-GCCcore-10.2.0-CUDA-11.1.1
+    2.8.3-CUDA-11.0.2
     2.4.8-gcccuda-2019b
+    2.10.3-GCCcore-10.3.0-CUDA-11.3.1
+    2.8.3-CUDA-11.1.1
+    2.10.3-GCCcore-11.2.0-CUDA-11.4.1
 
 
 
@@ -6369,12 +6297,12 @@ http://ab-initio.mit.edu/wiki/index.php/NLopt
 **Available Versions**:: 
 
 
-    2.7.0-GCCcore-10.3.0
-    2.4.2-GCCcore-7.3.0
     2.7.0-GCCcore-11.2.0
-    2.6.2-GCCcore-10.2.0
     2.6.1-GCCcore-8.3.0
+    2.6.2-GCCcore-10.2.0
+    2.7.0-GCCcore-10.3.0
     2.6.1-GCCcore-9.3.0
+    2.4.2-GCCcore-7.3.0
 
 
 
@@ -6398,11 +6326,11 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR
 **Available Versions**:: 
 
 
-    4.29-GCCcore-10.2.0
-    4.30-GCCcore-10.3.0
     4.20-GCCcore-7.3.0
     4.25-GCCcore-9.3.0
     4.21-GCCcore-8.3.0
+    4.30-GCCcore-10.3.0
+    4.29-GCCcore-10.2.0
 
 
 
@@ -6427,10 +6355,10 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS
 
 
     3.57-GCCcore-10.2.0
-    3.39-GCCcore-7.3.0
-    3.45-GCCcore-8.3.0
     3.51-GCCcore-9.3.0
     3.65-GCCcore-10.3.0
+    3.39-GCCcore-7.3.0
+    3.45-GCCcore-8.3.0
 
 
 
@@ -6454,10 +6382,10 @@ https://developer.nvidia.com/hpc-sdk/
 **Available Versions**:: 
 
 
-    21.7
-    21.9
     21.11
     20.11
+    21.9
+    21.7
 
 
 
@@ -6530,12 +6458,12 @@ https://ninja-build.org/
 **Available Versions**:: 
 
 
+    1.10.2-GCCcore-11.2.0
+    1.10.0-GCCcore-9.3.0
+    1.9.0-GCCcore-8.2.0
     1.9.0-GCCcore-8.3.0
     1.10.2-GCCcore-10.3.0
-    1.9.0-GCCcore-8.2.0
     1.10.1-GCCcore-10.2.0
-    1.10.0-GCCcore-9.3.0
-    1.10.2-GCCcore-11.2.0
 
 
 
@@ -6583,11 +6511,11 @@ https://orcaforum.kofo.mpg.de
 **Available Versions**:: 
 
 
-    5.0.3-gompi-2021b
-    5.0.1-gompi-2019b-dba
     4.2.1-gompi-2019b
     5.0.2-gompi-2019b-dba
+    5.0.1-gompi-2019b-dba
     5.0.0-gompi-2019b
+    5.0.3-gompi-2021b
 
 
 
@@ -6677,20 +6605,20 @@ OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 **More Information** 
 
 
-http://xianyi.github.com/OpenBLAS/ 
+https://xianyi.github.com/OpenBLAS/ 
 
 
 **Available Versions**:: 
 
 
-    0.3.1-GCC-7.3.0-2.30
     0.3.7-GCC-8.3.0
-    0.3.18-GCC-11.2.0
     0.3.5-GCC-8.2.0-2.31.1
-    0.3.15-GCC-10.3.0
+    0.3.18-GCC-11.2.0
     0.3.12-GCC-10.2.0
-    0.3.20-GCC-11.3.0
     0.3.9-GCC-9.3.0
+    0.3.20-GCC-11.3.0
+    0.3.1-GCC-7.3.0-2.30
+    0.3.15-GCC-10.3.0
 
 
 
@@ -6787,9 +6715,9 @@ https://www.openexr.com/
 **Available Versions**:: 
 
 
-    2.5.5-GCCcore-10.2.0
     2.4.1-GCCcore-9.3.0
     2.4.0-GCCcore-8.3.0
+    2.5.5-GCCcore-10.2.0
 
 
 
@@ -6813,19 +6741,19 @@ https://www.openfoam.com/
 **Available Versions**:: 
 
 
-    v2006-foss-2019b
-    v2006-foss-2020a
-    5.0-20180108-foss-2018b
-    v2006-intel-2020a
-    6-foss-2018b
-    8-foss-2020a
     v2012-foss-2020a
-    9-foss-2021a
-    6-intel-2020a
-    v1912-foss-2019b
-    v2106-foss-2021a
     8-foss-2020b
+    6-intel-2020a
+    v2006-foss-2019b
     6-foss-2019b
+    8-foss-2020a
+    v2106-foss-2021a
+    v2006-foss-2020a
+    v2006-intel-2020a
+    5.0-20180108-foss-2018b
+    v1912-foss-2019b
+    9-foss-2021a
+    6-foss-2018b
 
 
 
@@ -6849,8 +6777,8 @@ https://openimageio.org/
 **Available Versions**:: 
 
 
-    2.0.12-gompi-2019b
     2.1.12.0-gompi-2020a
+    2.0.12-gompi-2019b
 
 
 
@@ -6868,14 +6796,14 @@ OpenMM is a toolkit for molecular simulation.
 **More Information** 
 
 
-http://openmm.org 
+https://openmm.org 
 
 
 **Available Versions**:: 
 
 
-    7.4.1-foss-2019b-Python-3.7.4
     7.5.1-fosscuda-2020b
+    7.4.1-foss-2019b-Python-3.7.4
     7.4.2-intel-2020a-Python-3.8.2
 
 
@@ -6900,22 +6828,22 @@ https://www.open-mpi.org/
 **Available Versions**:: 
 
 
-    3.1.4-gcccuda-2019b
-    3.1.1-GCC-7.3.0-2.30
-    4.1.1-GCC-10.3.0-CUDA-11.1.1
-    3.1.4-GCC-8.3.0
-    4.1.1-GCC-10.3.0
-    4.0.5-GCC-10.2.0
-    3.1.4-PGI-19.10-GCC-8.3.0-2.32
-    4.0.3-GCC-9.3.0
     4.0.5-iccifort-2020.4.304
-    4.0.3-gcccuda-2020a
-    3.1.3-GCC-8.2.0-2.31.1
-    3.1.1-gcccuda-2018b
-    4.1.1-GCC-11.2.0
-    4.0.5-gcccuda-2020b
     3.1.4-GCC-8.3.0-dba
+    3.1.1-gcccuda-2018b
+    4.1.1-GCC-10.3.0
+    4.0.3-gcccuda-2020a
+    4.0.5-GCC-10.2.0
+    3.1.4-gcccuda-2019b
+    3.1.4-GCC-8.3.0
+    4.0.5-gcccuda-2020b
+    3.1.4-PGI-19.10-GCC-8.3.0-2.32
+    4.1.1-GCC-10.3.0-CUDA-11.1.1
+    3.1.3-GCC-8.2.0-2.31.1
+    4.0.3-GCC-9.3.0
     4.1.4-GCC-11.3.0
+    3.1.1-GCC-7.3.0-2.30
+    4.1.1-GCC-11.2.0
 
 
 
@@ -6939,8 +6867,8 @@ https://gitlab.com/Molcas/OpenMolcas
 **Available Versions**:: 
 
 
-    18.09-intel-2020b-Python-3.6.6
     20.10-intel-2020a-Python-3.8.2
+    18.09-intel-2020b-Python-3.6.6
     21.06-intel-2021a
 
 
@@ -6966,10 +6894,10 @@ https://code.google.com/p/openpgm/
 
 
     5.2.122-GCCcore-10.3.0
-    5.2.122-GCCcore-10.2.0
-    5.2.122-GCCcore-9.3.0
-    5.2.122-GCCcore-8.3.0
     5.2.122-GCCcore-11.2.0
+    5.2.122-GCCcore-10.2.0
+    5.2.122-GCCcore-8.3.0
+    5.2.122-GCCcore-9.3.0
 
 
 
@@ -7042,8 +6970,8 @@ https://github.com/davidemms/OrthoFinder
 **Available Versions**:: 
 
 
-    2.3.8-foss-2019b-Python-3.7.4
     2.3.8-foss-2019b-Python-2.7.16
+    2.3.8-foss-2019b-Python-3.7.4
 
 
 
@@ -7134,19 +7062,19 @@ The PCRE library is a set of functions that implement regular expression pattern
 **More Information** 
 
 
-https://www.pcre.org/ 
+http://www.pcre.org/ 
 
 
 **Available Versions**:: 
 
 
-    8.43-GCCcore-8.3.0
     8.43-GCCcore-8.2.0
     8.44-GCCcore-9.3.0
+    8.43-GCCcore-8.3.0
     8.44-GCCcore-10.2.0
     8.44-GCCcore-10.3.0
-    8.41-GCCcore-7.3.0
     8.45-GCCcore-11.2.0
+    8.41-GCCcore-7.3.0
 
 
 
@@ -7170,10 +7098,10 @@ https://www.pcre.org/
 **Available Versions**:: 
 
 
-    10.33-GCCcore-8.3.0
     10.36-GCCcore-10.3.0
-    10.37-GCCcore-11.2.0
+    10.33-GCCcore-8.3.0
     10.34-GCCcore-9.3.0
+    10.37-GCCcore-11.2.0
     10.35-GCCcore-10.2.0
 
 
@@ -7222,12 +7150,12 @@ https://www.mcs.anl.gov/petsc
 **Available Versions**:: 
 
 
-    3.12.4-foss-2020a-Python-3.8.2
-    3.15.0-foss-2020b
-    3.14.4-foss-2020b
-    3.12.4-intel-2020a-Python-3.8.2
-    3.12.4-foss-2019b-Python-3.7.4
     3.15.1-foss-2021a
+    3.15.0-foss-2020b
+    3.12.4-foss-2019b-Python-3.7.4
+    3.12.4-intel-2020a-Python-3.8.2
+    3.12.4-foss-2020a-Python-3.8.2
+    3.14.4-foss-2020b
 
 
 
@@ -7251,10 +7179,10 @@ https://www.pgroup.com/
 **Available Versions**:: 
 
 
-    18.10-GCC-8.1.0-2.30
-    16.5-GCC-7.3.0-2.30
-    19.10-GCC-8.3.0-2.32
     18.10-GCC-7.3.0-2.30
+    18.10-GCC-8.1.0-2.30
+    19.10-GCC-8.3.0-2.32
+    16.5-GCC-7.3.0-2.30
 
 
 
@@ -7327,17 +7255,17 @@ https://www.plumed.org
 
 
     2.7.0-intel-2020b
-    2.6.0-intel-2020a-Python-3.8.2
-    2.5.1-foss-2019a
-    2.7.0-foss-2020b
-    2.7.0-foss-2020a
-    2.7.2-foss-2021a
-    2.5.1-foss-2020a
-    2.6.2-foss-2020a-Python-3.8.2
-    2.5.1-foss-2019b
-    2.6.2-foss-2020b
     2.6.2-intel-2020b
+    2.7.0-foss-2020b
+    2.5.1-foss-2019a
     2.6.0-foss-2020a-Python-3.8.2
+    2.5.1-foss-2019b
+    2.6.0-intel-2020a-Python-3.8.2
+    2.7.2-foss-2021a
+    2.7.0-foss-2020a
+    2.6.2-foss-2020a-Python-3.8.2
+    2.6.2-foss-2020b
+    2.5.1-foss-2020a
 
 
 
@@ -7449,25 +7377,25 @@ PROJ
 **Description** 
 
 
-Program proj is a standard Unix filter function which convertsgeographic longitude and latitude coordinates into cartesian coordinates 
+Program proj is a standard Unix filter function which converts geographic longitude and latitude coordinates into cartesian coordinates 
 
 
 **More Information** 
 
 
-https://proj.org 
+http://trac.osgeo.org/proj/ 
 
 
 **Available Versions**:: 
 
 
-    7.2.1-GCCcore-10.2.0
-    7.0.0-GCCcore-9.3.0
-    8.0.1-GCCcore-10.3.0
-    6.0.0-GCCcore-8.2.0
-    8.1.0-GCCcore-11.2.0
     5.0.0-foss-2018b
+    8.1.0-GCCcore-11.2.0
+    7.2.1-GCCcore-10.2.0
     6.2.1-GCCcore-8.3.0
+    8.0.1-GCCcore-10.3.0
+    7.0.0-GCCcore-9.3.0
+    6.0.0-GCCcore-8.2.0
 
 
 
@@ -7515,12 +7443,12 @@ https://www.pango.org/
 **Available Versions**:: 
 
 
+    1.43.0-GCCcore-8.2.0
+    1.48.5-GCCcore-10.3.0
+    1.44.7-GCCcore-9.3.0
     1.47.0-GCCcore-10.2.0
     1.42.4-foss-2018b
-    1.43.0-GCCcore-8.2.0
     1.44.7-GCCcore-8.3.0
-    1.44.7-GCCcore-9.3.0
-    1.48.5-GCCcore-10.3.0
 
 
 
@@ -7545,10 +7473,10 @@ http://glaros.dtc.umn.edu/gkhome/metis/parmetis/overview
 
 
     4.0.3-gompi-2019b
-    4.0.3-iimpi-2020a
-    4.0.3-gompi-2020a
-    4.0.3-gompi-2019a
     4.0.3-gompi-2020b
+    4.0.3-gompi-2019a
+    4.0.3-gompi-2020a
+    4.0.3-iimpi-2020a
 
 
 
@@ -7573,9 +7501,9 @@ https://www.paraview.org
 
 
     5.8.1-foss-2020b-mpi
-    5.9.1-foss-2021a-mpi
-    5.6.2-foss-2019b-Python-3.7.4-mpi
     5.8.0-foss-2020a-Python-3.8.2-mpi
+    5.6.2-foss-2019b-Python-3.7.4-mpi
+    5.9.1-foss-2021a-mpi
     5.8.0-intel-2020a-Python-3.8.2-mpi
 
 
@@ -7624,21 +7552,21 @@ https://www.perl.org/
 **Available Versions**:: 
 
 
-    5.28.0-GCCcore-8.1.0
-    5.28.0-GCCcore-10.2.0
-    5.28.1-GCCcore-8.2.0
-    5.30.0-GCCcore-8.3.0
-    5.32.0-GCCcore-10.2.0
-    5.32.0-GCCcore-10.2.0-minimal
-    5.34.0-GCCcore-11.2.0
-    5.30.2-GCCcore-9.3.0
-    5.30.0-GCCcore-7.3.0
-    5.28.1-GCCcore-8.3.0
-    5.34.1-GCCcore-11.3.0
-    5.32.1-GCCcore-10.3.0-minimal
-    5.28.0-GCCcore-7.3.0
     5.32.1-GCCcore-10.3.0
+    5.28.1-GCCcore-8.3.0
+    5.28.0-GCCcore-8.1.0
+    5.28.1-GCCcore-8.2.0
+    5.30.2-GCCcore-9.3.0
+    5.32.0-GCCcore-10.2.0
+    5.34.0-GCCcore-11.2.0
+    5.32.0-GCCcore-10.2.0-minimal
+    5.32.1-GCCcore-10.3.0-minimal
+    5.34.1-GCCcore-11.3.0
     5.34.0-GCCcore-11.2.0-ARC
+    5.30.0-GCCcore-8.3.0
+    5.28.0-GCCcore-10.2.0
+    5.30.0-GCCcore-7.3.0
+    5.28.0-GCCcore-7.3.0
 
 
 
@@ -7686,11 +7614,11 @@ https://pillow.readthedocs.org/
 **Available Versions**:: 
 
 
-    7.0.0-GCCcore-9.3.0-Python-3.8.2
-    6.0.0-GCCcore-8.2.0
-    8.0.1-GCCcore-10.2.0
     6.2.1-GCCcore-8.3.0
+    6.0.0-GCCcore-8.2.0
+    7.0.0-GCCcore-9.3.0-Python-3.8.2
     8.2.0-GCCcore-10.3.0
+    8.0.1-GCCcore-10.2.0
 
 
 
@@ -7786,8 +7714,8 @@ http://pmw.sourceforge.net
 **Available Versions**:: 
 
 
-    2.0.1-foss-2019b-Python-2.7.16
     2.0.1-foss-2020a-Python-3.8.2
+    2.0.1-foss-2019b-Python-2.7.16
 
 
 
@@ -7811,8 +7739,8 @@ https://trac.mcs.anl.gov/projects/parallel-netcdf
 **Available Versions**:: 
 
 
-    1.12.1-gompi-2020a
     1.12.2-gompi-2020b
+    1.12.1-gompi-2020a
     1.12.2-gompic-2020b
 
 
@@ -7982,8 +7910,8 @@ http://sourceforge.net/projects/pymol
 **Available Versions**:: 
 
 
-    2.5.0-foss-2020a-Python-3.8.2
     2.3.0-foss-2019b-Python-2.7.16
+    2.5.0-foss-2020a-Python-3.8.2
 
 
 
@@ -8057,9 +7985,9 @@ https://pytorch.org/
 **Available Versions**:: 
 
 
-    1.6.0-fosscuda-2019b-Python-3.7.4
     1.7.1-fosscuda-2020b
     1.6.0-foss-2019b-Python-3.7.4
+    1.6.0-fosscuda-2019b-Python-3.7.4
 
 
 
@@ -8077,14 +8005,14 @@ PyYAML is a YAML parser and emitter for the Python programming language.
 **More Information** 
 
 
-https://pypi.python.org/pypi/PyYAML/ 
+https://github.com/yaml/pyyaml 
 
 
 **Available Versions**:: 
 
 
-    5.1-GCCcore-8.2.0
     5.3.1-GCCcore-10.2.0
+    5.1-GCCcore-8.2.0
     5.1.2-GCCcore-8.3.0
     5.3-GCCcore-9.3.0
 
@@ -8135,26 +8063,26 @@ https://python.org/
 **Available Versions**:: 
 
 
-    2.7.18-GCCcore-10.2.0
-    3.10.4-GCCcore-11.3.0-bare
     2.7.16-GCCcore-8.3.0
-    2.7.15-GCCcore-8.2.0
-    2.7.18-GCCcore-9.3.0
-    2.7.15-fosscuda-2018b
-    3.8.6-GCCcore-10.2.0
-    3.9.6-GCCcore-11.2.0
-    3.6.6-intel-2020b
-    2.7.18-GCCcore-11.2.0
-    3.9.5-GCCcore-10.3.0
-    3.7.4-GCCcore-8.3.0
-    3.6.6-foss-2018b
-    3.8.2-GCCcore-9.3.0
-    2.7.15-GCCcore-7.3.0-bare
-    3.7.2-GCCcore-8.2.0
-    2.7.18-GCCcore-10.3.0-bare
-    3.9.5-GCCcore-10.3.0-bare
     3.9.6-GCCcore-11.2.0-bare
+    3.9.6-GCCcore-11.2.0
     2.7.15-foss-2018b
+    2.7.15-fosscuda-2018b
+    2.7.18-GCCcore-9.3.0
+    2.7.18-GCCcore-10.2.0
+    2.7.18-GCCcore-10.3.0-bare
+    3.10.4-GCCcore-11.3.0-bare
+    3.6.6-foss-2018b
+    2.7.15-GCCcore-8.2.0
+    3.6.6-intel-2020b
+    3.8.6-GCCcore-10.2.0
+    3.7.4-GCCcore-8.3.0
+    3.7.2-GCCcore-8.2.0
+    3.9.5-GCCcore-10.3.0
+    3.9.5-GCCcore-10.3.0-bare
+    2.7.18-GCCcore-11.2.0
+    2.7.15-GCCcore-7.3.0-bare
+    3.8.2-GCCcore-9.3.0
 
 
 
@@ -8226,8 +8154,8 @@ http://www.qhull.org
 **Available Versions**:: 
 
 
-    2020.2-GCCcore-10.3.0
     2019.1-GCCcore-8.3.0
+    2020.2-GCCcore-10.3.0
 
 
 
@@ -8275,10 +8203,10 @@ https://qt.io/
 **Available Versions**:: 
 
 
+    5.13.1-GCCcore-8.3.0
+    5.14.2-GCCcore-10.2.0
     5.15.2-GCCcore-10.3.0
     5.14.1-GCCcore-9.3.0
-    5.14.2-GCCcore-10.2.0
-    5.13.1-GCCcore-8.3.0
 
 
 
@@ -8303,8 +8231,8 @@ https://pypi.python.org/pypi/Quandl
 
 
     3.6.1-foss-2021a
-    3.5.3-foss-2020a-Python-3.8.2
     3.4.8-foss-2019a
+    3.5.3-foss-2020a-Python-3.8.2
 
 
 
@@ -8316,7 +8244,7 @@ QuantumESPRESSO
 **Description** 
 
 
-Quantum ESPRESSO  is an integrated suite of computer codes for electronic-structure calculations and materials modeling at the nanoscale. It is based on density-functional theory, plane waves, and pseudopotentials  (both norm-conserving and ultrasoft). 
+Quantum ESPRESSO  is an integrated suite of computer codesfor electronic-structure calculations and materials modeling at the nanoscale.It is based on density-functional theory, plane waves, and pseudopotentials(both norm-conserving and ultrasoft). 
 
 
 **More Information** 
@@ -8328,11 +8256,11 @@ https://www.quantum-espresso.org
 **Available Versions**:: 
 
 
-    6.5-intel-2020a
     6.7-intel-2020a
+    6.5-intel-2020a
     6.6-foss-2020b
-    6.6-intel-2020a
     6.7-foss-2020b
+    6.6-intel-2020a
 
 
 
@@ -8380,13 +8308,13 @@ https://www.r-project.org/
 **Available Versions**:: 
 
 
-    4.0.2-foss-2020a
-    4.0.2-foss-2020a-ARC
-    4.1.0-foss-2021a
     3.6.2-foss-2019b
-    4.1.0-foss-2021a-ARC
+    4.1.0-foss-2021a
     4.1.2-foss-2021b
+    4.0.2-foss-2020a-ARC
+    4.0.2-foss-2020a
     4.1.2-foss-2021b-ARC
+    4.1.0-foss-2021a-ARC
 
 
 
@@ -8410,8 +8338,8 @@ https://bioconductor.org
 **Available Versions**:: 
 
 
-    3.14-foss-2021b-R-4.1.2
     3.10-foss-2019b
+    3.14-foss-2021b-R-4.1.2
     3.13-foss-2021a-R-4.1.0
 
 
@@ -8532,8 +8460,8 @@ https://www.repeatmasker.org/RepeatModeler/
 **Available Versions**:: 
 
 
-    1.08-GCC-10.2.0
     1.08-GCC-10.3.0
+    1.08-GCC-10.2.0
 
 
 
@@ -8581,8 +8509,8 @@ https://www.repeatmasker.org/RMBlast.html
 **Available Versions**:: 
 
 
-    2.11.0-gompi-2020b
     2.11.0-gompi-2021a
+    2.11.0-gompi-2020b
 
 
 
@@ -8613,18 +8541,6 @@ https://root.cern.ch/drupal/
 RStudio
 ------- 
 
-
-
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
 
 
 **Available Versions**:: 
@@ -8702,8 +8618,8 @@ https://www.repeatmasker.org/
 **Available Versions**:: 
 
 
-    4.1.2-p1-foss-2021a
     4.1.2-p1-foss-2020b
+    4.1.2-p1-foss-2021a
 
 
 
@@ -8789,7 +8705,7 @@ Ruby
 **Description** 
 
 
-Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. 
+Ruby is a dynamic, open source programming language with  a focus on simplicity and productivity. It has an elegant syntax that is  natural to read and easy to write. 
 
 
 **More Information** 
@@ -8801,8 +8717,8 @@ https://www.ruby-lang.org
 **Available Versions**:: 
 
 
-    3.0.1-GCCcore-10.3.0
     2.6.1-GCCcore-7.3.0
+    3.0.1-GCCcore-10.3.0
 
 
 
@@ -8826,9 +8742,9 @@ https://www.rust-lang.org
 **Available Versions**:: 
 
 
-    1.42.0-GCCcore-9.3.0
     1.42.0-GCCcore-8.3.0
     1.52.1-GCCcore-10.3.0
+    1.42.0-GCCcore-9.3.0
     1.54.0-GCCcore-11.2.0
 
 
@@ -8854,13 +8770,13 @@ https://www.htslib.org/
 
 
     1.10-GCC-9.3.0
-    1.12-GCC-10.2.0
-    0.1.20-GCC-8.3.0
-    1.10-GCC-8.3.0
-    1.11-GCC-10.2.0
-    1.9-foss-2018b
     0.1.20-foss-2020a
     1.14-GCC-11.2.0
+    1.11-GCC-10.2.0
+    1.12-GCC-10.2.0
+    1.10-GCC-8.3.0
+    0.1.20-GCC-8.3.0
+    1.9-foss-2018b
 
 
 
@@ -8885,12 +8801,12 @@ http://gforge.inria.fr/projects/scotch/
 
 
     6.0.6-gompi-2019a
+    6.0.9-gompi-2019b
+    6.0.6-foss-2018b
     6.0.9-iimpi-2020a
     6.1.0-gompi-2021a
-    6.0.6-foss-2018b
     6.0.9-gompi-2020a
     6.1.0-gompi-2020b
-    6.0.9-gompi-2019b
 
 
 
@@ -8914,12 +8830,12 @@ https://www.scons.org/
 **Available Versions**:: 
 
 
-    3.0.5-GCCcore-8.2.0-Python-2.7.15
     3.0.1-foss-2018b-Python-2.7.15
-    3.0.5-GCCcore-8.2.0
     3.0.1-fosscuda-2018b-Python-2.7.15
-    4.0.1-GCCcore-10.2.0
+    3.0.5-GCCcore-8.2.0-Python-2.7.15
+    3.0.5-GCCcore-8.2.0
     3.1.1-GCCcore-8.3.0
+    4.0.1-GCCcore-10.2.0
 
 
 
@@ -8955,21 +8871,21 @@ SIONlib
 **Description** 
 
 
-SIONlib is a scalable I/O library for parallel access to task-local files. The library not only supports writing and reading binary data to or from several thousands of processors into a single or a small number of physical files, but also provides global open and close functions to access SIONlib files in parallel. This package provides a stripped-down installation of SIONlib for use with performance tools (e.g., Score-P), with renamed symbols to avoid conflicts when an application using SIONlib itself is linked against a tool requiring a different SIONlib version. 
+SIONlib is a scalable I/O library for the parallel access totask-local files. The library not only supports writing and readingbinary data to or from from several thousands of processors into asingle or a small number of physical files but also provides forglobal open and close functions to access SIONlib file inparallel. SIONlib provides different interfaces: parallel access usingMPI, OpenMp, or their combination and sequential access forpost-processing utilities.  
 
 
 **More Information** 
 
 
-https://www.fz-juelich.de/ias/jsc/EN/Expertise/Support/Software/SIONlib/_node.html 
+http://www.fz-juelich.de/ias/jsc/EN/Expertise/Support/Software/SIONlib/_node.html 
 
 
 **Available Versions**:: 
 
 
-    1.7.6-GCCcore-9.3.0-tools
-    1.7.6-foss-2020a
     1.7.6-foss-2019b
+    1.7.6-foss-2020a
+    1.7.6-GCCcore-9.3.0-tools
 
 
 
@@ -9017,8 +8933,8 @@ https://slepc.upv.es/
 **Available Versions**:: 
 
 
-    3.12.2-foss-2019b-Python-3.7.4
     3.12.2-intel-2020a-Python-3.8.2
+    3.12.2-foss-2019b-Python-3.7.4
 
 
 
@@ -9084,14 +9000,14 @@ Genome assembler for single-cell and isolates data sets
 **More Information** 
 
 
-https://cab.spbu.ru/software/spades/ 
+http://cab.spbu.ru/software/spades/ 
 
 
 **Available Versions**:: 
 
 
-    3.15.2-GCC-10.2.0
     3.13.0-foss-2018b
+    3.15.2-GCC-10.2.0
 
 
 
@@ -9115,16 +9031,16 @@ https://www.sqlite.org/
 **Available Versions**:: 
 
 
-    3.27.2-GCCcore-8.3.0
-    3.33.0-GCCcore-10.2.0
-    3.35.4-GCCcore-10.3.0
     3.31.1-GCCcore-9.3.0
-    3.24.0-GCCcore-7.3.0
-    3.29.0-GCCcore-8.3.0
-    3.36-GCCcore-11.2.0
+    3.27.2-GCCcore-8.3.0
     3.24.0-GCCcore-10.2.0
-    3.27.2-GCCcore-8.2.0
     3.38.3-GCCcore-11.3.0
+    3.35.4-GCCcore-10.3.0
+    3.33.0-GCCcore-10.2.0
+    3.36-GCCcore-11.2.0
+    3.29.0-GCCcore-8.3.0
+    3.24.0-GCCcore-7.3.0
+    3.27.2-GCCcore-8.2.0
 
 
 
@@ -9148,9 +9064,9 @@ https://github.com/alexdobin/STAR
 **Available Versions**:: 
 
 
-    2.7.9a-GCC-11.2.0
-    2.7.1a-GCC-8.2.0-2.31.1
     2.7.3a-GCC-9.3.0
+    2.7.1a-GCC-8.2.0-2.31.1
+    2.7.9a-GCC-11.2.0
 
 
 
@@ -9159,24 +9075,12 @@ STARCCM+
 
 
 
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
-
-
 **Available Versions**:: 
 
 
     2021.2.1
-    2022.1
     2020.2.1
+    2022.1
 
 
 
@@ -9248,13 +9152,13 @@ http://www.swig.org/
 **Available Versions**:: 
 
 
-    3.0.12-GCCcore-8.2.0-Python-2.7.15
-    4.0.2-GCCcore-10.3.0
-    4.0.1-GCCcore-8.3.0
-    3.0.12-foss-2018b-Python-2.7.15
-    4.0.1-GCCcore-9.3.0
-    3.0.12-GCCcore-8.3.0
     4.0.2-GCCcore-10.2.0
+    4.0.2-GCCcore-10.3.0
+    3.0.12-GCCcore-8.2.0-Python-2.7.15
+    4.0.1-GCCcore-9.3.0
+    3.0.12-foss-2018b-Python-2.7.15
+    4.0.1-GCCcore-8.3.0
+    3.0.12-GCCcore-8.3.0
 
 
 
@@ -9302,8 +9206,8 @@ http://www.scafacos.de/
 **Available Versions**:: 
 
 
-    1.0.1-foss-2020a
     1.0.1-intel-2020a
+    1.0.1-foss-2020a
 
 
 
@@ -9321,24 +9225,24 @@ The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines 
 **More Information** 
 
 
-https://www.netlib.org/scalapack/ 
+http://www.netlib.org/scalapack/ 
 
 
 **Available Versions**:: 
 
 
-    2.2.0-gompi-2022a-fb
-    2.1.0-gompi-2020b
-    2.0.2-gompic-2018b-OpenBLAS-0.3.1
-    2.1.0-gompi-2020a
+    2.0.2-gompi-2018b-OpenBLAS-0.3.1
     2.0.2-gompic-2019b
     2.1.0-gompi-2021b-fb
-    2.0.2-gompi-2019b
+    2.0.2-gompic-2018b-OpenBLAS-0.3.1
+    2.1.0-gompi-2021a-fb
+    2.1.0-gompi-2020a
+    2.1.0-gompi-2020b
+    2.2.0-gompi-2022a-fb
     2.1.0-gompic-2020a
     2.0.2-gompi-2019a-OpenBLAS-0.3.5
-    2.1.0-gompi-2021a-fb
+    2.0.2-gompi-2019b
     2.1.0-gompic-2020b
-    2.0.2-gompi-2018b-OpenBLAS-0.3.1
 
 
 
@@ -9386,20 +9290,20 @@ https://python.org/
 **Available Versions**:: 
 
 
-    2019.10-foss-2019b-Python-3.7.4
     2020.11-fosscuda-2020b
-    2020.11-foss-2020b
-    2020.03-fosscuda-2020a-Python-3.8.2
-    2021.10-foss-2021b
-    2019.10-fosscuda-2019b-Python-3.7.4
-    2020.03-intel-2020a-Python-3.8.2
-    2020.03-foss-2020a-Python-3.8.2
-    2019.10-intel-2019b-Python-3.7.4
-    2019.10-fosscuda-2019b-Python-2.7.16
-    2019.10-foss-2019b-Python-2.7.16
     2020.11-intel-2020b
-    2019.03-foss-2019a
+    2020.11-foss-2020b
+    2019.10-intel-2019b-Python-3.7.4
+    2020.03-intel-2020a-Python-3.8.2
+    2019.10-fosscuda-2019b-Python-2.7.16
+    2020.03-fosscuda-2020a-Python-3.8.2
+    2019.10-fosscuda-2019b-Python-3.7.4
     2021.05-foss-2021a
+    2020.03-foss-2020a-Python-3.8.2
+    2019.03-foss-2019a
+    2021.10-foss-2021b
+    2019.10-foss-2019b-Python-3.7.4
+    2019.10-foss-2019b-Python-2.7.16
 
 
 
@@ -9543,8 +9447,8 @@ http://departments.icmab.es/leem/siesta
 **Available Versions**:: 
 
 
-    4.1.5-foss-2020a
     4.1-b4-intel-2020a
+    4.1.5-foss-2020a
 
 
 
@@ -9562,33 +9466,21 @@ Stacks is a software pipeline for building loci from short-read sequences, such 
 **More Information** 
 
 
-http://catchenlab.life.illinois.edu/stacks 
+https://catchenlab.life.illinois.edu/stacks/ 
 
 
 **Available Versions**:: 
 
 
-    2.41-iccifort-2019.5.281
     2.53-foss-2019b
     2.41-GCC-8.3.0
+    2.41-iccifort-2019.5.281
 
 
 
 Stata
 ----- 
 
-
-
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
 
 
 **Available Versions**:: 
@@ -9642,11 +9534,11 @@ https://faculty.cse.tamu.edu/davis/suitesparse.html
 **Available Versions**:: 
 
 
+    5.7.1-intel-2020a-METIS-5.1.0
     5.7.1-foss-2020a-METIS-5.1.0
     5.8.1-foss-2020b-METIS-5.1.0
-    5.6.0-foss-2019b-METIS-5.1.0
-    5.7.1-intel-2020a-METIS-5.1.0
     5.4.0-foss-2019a-METIS-5.1.0
+    5.6.0-foss-2019b-METIS-5.1.0
     5.10.1-foss-2021a-METIS-5.1.0
 
 
@@ -9737,21 +9629,21 @@ Szip compression software, providing lossless compression of scientific data
 **More Information** 
 
 
-http://www.hdfgroup.org/doc_resource/SZIP/ 
+https://www.hdfgroup.org/doc_resource/SZIP/ 
 
 
 **Available Versions**:: 
 
 
-    2.1.1-GCCcore-7.3.0
-    2.1.1-GCCcore-11.3.0
-    2.1.1-intel-2020a
-    2.1.1-GCCcore-8.3.0
-    2.1.1-GCCcore-10.3.0
-    2.1.1-GCCcore-11.2.0
-    2.1.1-GCCcore-9.3.0
     2.1.1-GCCcore-10.2.0
     2.1.1-GCCcore-8.2.0
+    2.1.1-GCCcore-11.3.0
+    2.1.1-GCCcore-8.3.0
+    2.1.1-GCCcore-11.2.0
+    2.1.1-GCCcore-7.3.0
+    2.1.1-GCCcore-9.3.0
+    2.1.1-intel-2020a
+    2.1.1-GCCcore-10.3.0
 
 
 
@@ -9825,15 +9717,15 @@ http://www.tcl.tk/
 **Available Versions**:: 
 
 
-    8.6.8-GCCcore-7.3.0
     8.6.8-GCCcore-10.2.0
-    8.6.10-GCCcore-9.3.0
     8.6.9-GCCcore-8.3.0
-    8.6.9-GCCcore-8.2.0
     8.6.10-GCCcore-10.2.0
+    8.6.10-GCCcore-9.3.0
     8.6.11-GCCcore-10.3.0
-    8.6.12-GCCcore-11.3.0
     8.6.11-GCCcore-11.2.0
+    8.6.8-GCCcore-7.3.0
+    8.6.9-GCCcore-8.2.0
+    8.6.12-GCCcore-11.3.0
 
 
 
@@ -9857,14 +9749,14 @@ https://www.tensorflow.org/
 **Available Versions**:: 
 
 
-    2.6.0-foss-2021a-CUDA-11.3.1
     1.15.2-fosscuda-2019b-Python-3.7.4
-    2.3.1-foss-2020a-Python-3.8.2
     2.5.0-fosscuda-2020b
-    2.5.3-foss-2021a-CUDA-11.3.1
     2.4.1-fosscuda-2020b
-    2.1.0-foss-2019b-Python-3.7.4
+    2.3.1-foss-2020a-Python-3.8.2
     2.7.1-foss-2021b-CUDA-11.4.1
+    2.6.0-foss-2021a-CUDA-11.3.1
+    2.1.0-foss-2019b-Python-3.7.4
+    2.5.3-foss-2021a-CUDA-11.3.1
 
 
 
@@ -9888,9 +9780,9 @@ https://deeplearning.net/software/theano
 **Available Versions**:: 
 
 
+    1.0.4-fosscuda-2019b-Python-3.7.4
     1.1.2-fosscuda-2020b-PyMC
     1.0.4-foss-2019b-Python-3.7.4
-    1.0.4-fosscuda-2019b-Python-3.7.4
 
 
 
@@ -9908,19 +9800,19 @@ Tk is an open source, cross-platform widget toolchain that provides a library of
 **More Information** 
 
 
-http://www.tcl.tk/ 
+https://www.tcl.tk/ 
 
 
 **Available Versions**:: 
 
 
-    8.6.8-GCCcore-7.3.0
     8.6.9-GCCcore-8.3.0
-    8.6.10-GCCcore-10.2.0
-    8.6.11-GCCcore-11.2.0
+    8.6.10-GCCcore-9.3.0
+    8.6.8-GCCcore-7.3.0
     8.6.11-GCCcore-10.3.0
     8.6.9-GCCcore-8.2.0
-    8.6.10-GCCcore-9.3.0
+    8.6.11-GCCcore-11.2.0
+    8.6.10-GCCcore-10.2.0
 
 
 
@@ -9946,11 +9838,11 @@ https://python.org/
 
     3.7.4-GCCcore-8.3.0
     3.9.5-GCCcore-10.3.0
-    3.8.6-GCCcore-10.2.0
-    3.8.2-GCCcore-9.3.0
     2.7.16-GCCcore-8.3.0
-    2.7.15-foss-2018b-Python-2.7.15
+    3.8.2-GCCcore-9.3.0
     2.7.15-fosscuda-2018b-Python-2.7.15
+    3.8.6-GCCcore-10.2.0
+    2.7.15-foss-2018b-Python-2.7.15
 
 
 
@@ -10022,8 +9914,8 @@ http://bitbucket.org/nygcresearch/treemix
 **Available Versions**:: 
 
 
-    1.13-GCC-10.3.0
     1.13-intel-2020a
+    1.13-GCC-10.3.0
 
 
 
@@ -10146,13 +10038,13 @@ http://www.openucx.org/
 
 
     1.8.0-GCCcore-9.3.0-CUDA-11.0.2
-    1.9.0-GCCcore-10.2.0-CUDA-11.1.1
-    1.8.0-GCCcore-9.3.0
     1.11.2-GCCcore-11.2.0
     1.9.0-GCCcore-10.3.0-CUDA-11.1.1
-    1.10.0-GCCcore-10.3.0
-    1.9.0-GCCcore-10.2.0
     1.12.1-GCCcore-11.3.0
+    1.8.0-GCCcore-9.3.0
+    1.10.0-GCCcore-10.3.0
+    1.9.0-GCCcore-10.2.0-CUDA-11.1.1
+    1.9.0-GCCcore-10.2.0
 
 
 
@@ -10203,8 +10095,8 @@ https://www.unidata.ucar.edu/software/udunits/
 
     2.2.28-GCCcore-11.2.0
     2.2.26-GCCcore-8.3.0
-    2.2.26-GCCcore-10.2.0
     2.2.28-GCCcore-10.3.0
+    2.2.26-GCCcore-10.2.0
     2.2.26-foss-2020a
 
 
@@ -10277,11 +10169,11 @@ http://www.info-zip.org/UnZip.html
 **Available Versions**:: 
 
 
-    6.0-GCCcore-10.3.0
-    6.0-GCCcore-10.2.0
     6.0-GCCcore-11.3.0
     6.0-GCCcore-9.3.0
     6.0-GCCcore-11.2.0
+    6.0-GCCcore-10.2.0
+    6.0-GCCcore-10.3.0
 
 
 
@@ -10314,18 +10206,6 @@ https://cran.r-project.org/web/packages/V8/
 VASP
 ---- 
 
-
-
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
 
 
 **Available Versions**:: 
@@ -10379,8 +10259,8 @@ https://vcftools.github.io
 **Available Versions**:: 
 
 
-    0.1.16-GCC-9.3.0
     0.1.16-GCC-11.2.0
+    0.1.16-GCC-9.3.0
 
 
 
@@ -10405,9 +10285,9 @@ https://www.vtk.org
 
 
     8.2.0-intel-2020a-Python-3.8.2
-    8.2.0-foss-2019b-Python-3.7.4
-    8.2.0-foss-2020a-Python-3.8.2
     9.1.0-foss-2021b
+    8.2.0-foss-2020a-Python-3.8.2
+    8.2.0-foss-2019b-Python-3.7.4
 
 
 
@@ -10431,8 +10311,8 @@ https://software.intel.com/en-us/vtune
 **Available Versions**:: 
 
 
-    2019_update5
     2021.9.0
+    2019_update5
 
 
 
@@ -10456,8 +10336,8 @@ https://valgrind.org
 **Available Versions**:: 
 
 
-    3.16.1-gompi-2020a
     3.18.1-gompi-2021b
+    3.16.1-gompi-2020a
     3.14.0-foss-2018b
     3.16.1-iimpi-2020a
     3.17.0-gompi-2021a
@@ -10556,9 +10436,9 @@ http://www.wien2k.at/
 **Available Versions**:: 
 
 
-    21.1-intel-2021a
-    1.0-info
     21.1-JP-intel-2021a
+    1.0-info
+    21.1-intel-2021a
 
 
 
@@ -10630,13 +10510,13 @@ https://www.x.org
 **Available Versions**:: 
 
 
-    20201008-GCCcore-10.2.0
-    20180604-GCCcore-7.3.0
-    20190717-GCCcore-8.3.0
-    20210518-GCCcore-10.3.0
-    20190311-GCCcore-8.2.0
-    20210802-GCCcore-11.2.0
     20200222-GCCcore-9.3.0
+    20190717-GCCcore-8.3.0
+    20210802-GCCcore-11.2.0
+    20190311-GCCcore-8.2.0
+    20180604-GCCcore-7.3.0
+    20201008-GCCcore-10.2.0
+    20210518-GCCcore-10.3.0
 
 
 
@@ -10648,20 +10528,20 @@ XCFun
 **Description** 
 
 
-Arbitrary order exchange-correlation functional library 
+XCFun is a library of DFT exchange-correlation (XC) functionals. It is based on automatic differentiation and can therefore generate arbitrary order derivatives of these functionals.  
 
 
 **More Information** 
 
 
-https://xcfun.readthedocs.io 
+http://dftlibs.org/xcfun/ 
 
 
 **Available Versions**:: 
 
 
-    2.1.1-GCCcore-10.3.0
     20190127-foss-2020a-Python-3.8.2
+    2.1.1-GCCcore-10.3.0
     20190127-foss-2019a-Python-3.7.2
 
 
@@ -10735,8 +10615,8 @@ http://www.xmds.org/
 **Available Versions**:: 
 
 
-    3.1.0-foss-2020a-Python-3.8.2
     2.2.3-foss-2018b-Python-2.7.15
+    3.1.0-foss-2020a-Python-3.8.2
 
 
 
@@ -10784,15 +10664,15 @@ https://tukaani.org/xz/
 **Available Versions**:: 
 
 
-    5.2.5-GCCcore-9.3.0
-    5.2.4-GCCcore-7.3.0
+    5.2.5-GCCcore-10.3.0
     5.2.5-GCCcore-11.2.0
     5.2.4-GCCcore-10.2.0
-    5.2.5-GCCcore-10.3.0
-    5.2.5-GCCcore-10.2.0
     5.2.4-GCCcore-8.2.0
-    5.2.4-GCCcore-8.3.0
     5.2.5-GCCcore-11.3.0
+    5.2.5-GCCcore-10.2.0
+    5.2.4-GCCcore-8.3.0
+    5.2.4-GCCcore-7.3.0
+    5.2.5-GCCcore-9.3.0
 
 
 
@@ -10816,9 +10696,9 @@ https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml
 **Available Versions**:: 
 
 
-    1.20.11-GCCcore-10.3.0
-    1.20.13-GCCcore-11.2.0
     1.20.9-GCCcore-10.2.0
+    1.20.13-GCCcore-11.2.0
+    1.20.11-GCCcore-10.3.0
 
 
 
@@ -10866,11 +10746,11 @@ https://www.tortall.net/projects/yasm/
 **Available Versions**:: 
 
 
-    1.3.0-GCCcore-10.3.0
-    1.3.0-GCCcore-8.3.0
-    1.3.0-GCCcore-8.2.0
-    1.3.0-GCCcore-10.2.0
     1.3.0-GCCcore-9.3.0
+    1.3.0-GCCcore-10.3.0
+    1.3.0-GCCcore-8.2.0
+    1.3.0-GCCcore-8.3.0
+    1.3.0-GCCcore-10.2.0
 
 
 
@@ -10918,10 +10798,10 @@ https://www.zeromq.org/
 **Available Versions**:: 
 
 
-    4.3.4-GCCcore-11.2.0
     4.3.2-GCCcore-9.3.0
-    4.3.4-GCCcore-10.3.0
+    4.3.4-GCCcore-11.2.0
     4.3.3-GCCcore-10.2.0
+    4.3.4-GCCcore-10.3.0
     4.3.2-GCCcore-8.3.0
 
 
@@ -10946,10 +10826,10 @@ http://www.info-zip.org/Zip.html
 **Available Versions**:: 
 
 
-    3.0-GCCcore-11.2.0
     3.0-GCCcore-8.3.0
-    3.0-GCCcore-10.2.0
     3.0-GCCcore-10.3.0
+    3.0-GCCcore-11.2.0
+    3.0-GCCcore-10.2.0
     3.0-GCCcore-9.3.0
 
 
@@ -10974,8 +10854,8 @@ http://www.popgen.dk/angsd
 **Available Versions**:: 
 
 
-    0.933-GCC-8.3.0
     0.925-foss-2018b
+    0.933-GCC-8.3.0
     0.935-GCC-10.2.0
 
 
@@ -11024,10 +10904,10 @@ https://ant.apache.org/
 **Available Versions**:: 
 
 
-    1.10.7-Java-11
     1.10.9-Java-11
-    1.10.8-Java-11
     1.10.11-Java-11
+    1.10.7-Java-11
+    1.10.8-Java-11
 
 
 
@@ -11149,10 +11029,10 @@ https://wiki.gnome.org/Accessibility
 **Available Versions**:: 
 
 
-    2.34.1-GCCcore-8.3.0
-    2.32.0-GCCcore-8.2.0
-    2.38.0-GCCcore-10.2.0
     2.34.2-GCCcore-9.3.0
+    2.38.0-GCCcore-10.2.0
+    2.32.0-GCCcore-8.2.0
+    2.34.1-GCCcore-8.3.0
 
 
 
@@ -11176,10 +11056,10 @@ https://wiki.gnome.org/Accessibility
 **Available Versions**:: 
 
 
-    2.34.0-GCCcore-8.3.0
-    2.32.0-GCCcore-8.2.0
     2.38.0-GCCcore-10.2.0
     2.36.0-GCCcore-9.3.0
+    2.32.0-GCCcore-8.2.0
+    2.34.0-GCCcore-8.3.0
 
 
 
@@ -11248,35 +11128,35 @@ binutils: GNU binary utilities
 **More Information** 
 
 
-http://directory.fsf.org/project/binutils/ 
+https://directory.fsf.org/project/binutils/ 
 
 
 **Available Versions**:: 
 
 
-    2.30-GCCcore-7.3.0
-    2.35
-    2.35-GCCcore-10.2.0
-    2.30-GCCcore-8.1.0
-    2.31.1-GCCcore-8.2.0
-    2.31.1
-    2.26
-    2.36.1-GCCcore-10.3.0
     2.32-GCCcore-9.3.0
-    2.28
-    2.25
-    2.37
-    2.37-GCCcore-11.2.0
-    2.32-GCCcore-8.3.0
-    2.36.1
-    2.34-GCCcore-9.3.0
-    2.32
-    2.38-GCCcore-11.3.0
     2.30
-    2.27
-    2.38
+    2.30-GCCcore-8.1.0
+    2.31.1
+    2.37
+    2.30-GCCcore-7.3.0
+    2.35-GCCcore-10.2.0
     2.34
+    2.31.1-GCCcore-8.2.0
+    2.34-GCCcore-9.3.0
+    2.35
+    2.38
+    2.38-GCCcore-11.3.0
+    2.36.1
+    2.25
+    2.36.1-GCCcore-10.3.0
     2.31.1-GCCcore-8.3.0
+    2.37-GCCcore-11.2.0
+    2.32
+    2.28
+    2.26
+    2.32-GCCcore-8.3.0
+    2.27
 
 
 
@@ -11300,8 +11180,8 @@ https://github.com/bokeh/bokeh
 **Available Versions**:: 
 
 
-    2.2.3-fosscuda-2020b
     2.2.3-foss-2020b
+    2.2.3-fosscuda-2020b
     1.4.0-foss-2019b-Python-3.7.4
 
 
@@ -11326,8 +11206,8 @@ https://core.tcl-lang.org/bwidget/home
 **Available Versions**:: 
 
 
-    1.9.14-GCCcore-8.3.0
     1.9.13-GCCcore-8.2.0
+    1.9.14-GCCcore-8.3.0
     1.9.14-GCCcore-9.3.0
 
 
@@ -11352,17 +11232,17 @@ https://sourceware.org/bzip2
 **Available Versions**:: 
 
 
-    1.0.8-GCCcore-10.3.0
     1.0.8-GCCcore-11.3.0
-    1.0.8-GCCcore-7.3.0
-    1.0.6-GCCcore-10.2.0
+    1.0.6-GCCcore-8.2.0
+    1.0.6-GCCcore-7.3.0
+    1.0.8-GCCcore-8.3.0
     1.0.8-GCCcore-11.2.0
+    1.0.8-GCCcore-10.3.0
     1.0.8-GCCcore-10.2.0
     1.0.8-GCCcore-9.3.0
-    1.0.6-GCCcore-7.3.0
-    1.0.6-GCCcore-8.2.0
+    1.0.6-GCCcore-10.2.0
     1.0.6-GCCcore-8.3.0
-    1.0.8-GCCcore-8.3.0
+    1.0.8-GCCcore-7.3.0
 
 
 
@@ -11404,22 +11284,22 @@ libcurl is a free and easy-to-use client-side URL transfer library, supporting D
 **More Information** 
 
 
-https://curl.haxx.se 
+http://curl.haxx.se 
 
 
 **Available Versions**:: 
 
 
+    7.60.0-GCCcore-10.2.0
+    7.78.0-GCCcore-11.2.0
+    7.76.0-GCCcore-10.3.0
+    7.83.0-GCCcore-11.3.0
+    7.66.0-GCCcore-7.3.0
+    7.60.0-GCCcore-7.3.0
+    7.66.0-GCCcore-8.3.0
+    7.63.0-GCCcore-8.2.0
     7.69.1-GCCcore-9.3.0
     7.72.0-GCCcore-10.2.0
-    7.60.0-GCCcore-7.3.0
-    7.83.0-GCCcore-11.3.0
-    7.76.0-GCCcore-10.3.0
-    7.63.0-GCCcore-8.2.0
-    7.66.0-GCCcore-8.3.0
-    7.78.0-GCCcore-11.2.0
-    7.66.0-GCCcore-7.3.0
-    7.60.0-GCCcore-10.2.0
 
 
 
@@ -11443,31 +11323,19 @@ https://cairographics.org
 **Available Versions**:: 
 
 
-    1.16.0-GCCcore-9.3.0
-    1.14.12-GCCcore-7.3.0
-    1.16.0-GCCcore-11.2.0
-    1.16.0-GCCcore-10.2.0
-    1.16.0-GCCcore-8.2.0
-    1.16.0-GCCcore-8.3.0
     1.16.0-GCCcore-10.3.0
+    1.14.12-GCCcore-7.3.0
+    1.16.0-GCCcore-10.2.0
+    1.16.0-GCCcore-11.2.0
+    1.16.0-GCCcore-9.3.0
+    1.16.0-GCCcore-8.3.0
+    1.16.0-GCCcore-8.2.0
 
 
 
 cfx
 --- 
 
-
-
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
 
 
 **Available Versions**:: 
@@ -11593,12 +11461,12 @@ https://developer.nvidia.com/cudnn
 **Available Versions**:: 
 
 
-    8.2.2.26-CUDA-11.4.1
-    8.1.1.33-CUDA-11.2.2
-    7.6.4.38-gcccuda-2019b
     8.2.1.32-CUDA-11.3.1
     8.0.4.30-CUDA-11.1.1
     8.0.4.30-CUDA-11.0.2
+    8.2.2.26-CUDA-11.4.1
+    8.1.1.33-CUDA-11.2.2
+    7.6.4.38-gcccuda-2019b
 
 
 
@@ -11622,9 +11490,9 @@ https://opensource.scilifelab.se/projects/cutadapt/
 **Available Versions**:: 
 
 
-    1.18-foss-2018b-Python-3.6.6
-    3.5-GCCcore-11.2.0
     2.7-GCCcore-8.3.0-Python-3.7.4
+    3.5-GCCcore-11.2.0
+    1.18-foss-2018b-Python-3.6.6
 
 
 
@@ -11648,9 +11516,9 @@ https://dask.org/
 **Available Versions**:: 
 
 
-    2021.2.0-foss-2020b
     2.8.0-foss-2019b-Python-3.7.4
     2021.2.0-fosscuda-2020b
+    2021.2.0-foss-2020b
 
 
 
@@ -11795,11 +11663,11 @@ https://github.com/google/double-conversion
 **Available Versions**:: 
 
 
+    3.1.4-GCCcore-8.3.0
+    3.1.5-GCCcore-10.2.0
+    3.1.5-GCCcore-9.3.0
     3.1.5-GCCcore-10.3.0
     3.1.5-GCCcore-11.2.0
-    3.1.4-GCCcore-8.3.0
-    3.1.5-GCCcore-9.3.0
-    3.1.5-GCCcore-10.2.0
 
 
 
@@ -11847,8 +11715,8 @@ https://elfutils.org/
 **Available Versions**:: 
 
 
-    0.183-GCCcore-10.2.0
     0.185-GCCcore-8.3.0
+    0.183-GCCcore-10.2.0
 
 
 
@@ -11896,18 +11764,18 @@ https://libexpat.github.io
 **Available Versions**:: 
 
 
-    2.2.7-GCCcore-8.3.0
-    2.2.5-GCCcore-8.1.0
-    2.2.6-GCCcore-8.3.0
-    2.2.9-GCCcore-10.3.0
-    2.2.9-GCCcore-10.2.0
-    2.2.5-GCCcore-10.2.0
-    2.4.8-GCCcore-11.3.0
-    2.2.6-GCCcore-8.2.0
-    2.2.7-GCCcore-7.3.0
-    2.4.1-GCCcore-11.2.0
     2.2.9-GCCcore-9.3.0
+    2.2.9-GCCcore-10.2.0
+    2.2.9-GCCcore-10.3.0
+    2.2.7-GCCcore-7.3.0
+    2.2.5-GCCcore-10.2.0
+    2.2.5-GCCcore-8.1.0
+    2.4.1-GCCcore-11.2.0
+    2.2.7-GCCcore-8.3.0
     2.2.5-GCCcore-7.3.0
+    2.2.6-GCCcore-8.2.0
+    2.2.6-GCCcore-8.3.0
+    2.4.8-GCCcore-11.3.0
 
 
 
@@ -12004,11 +11872,11 @@ https://github.com/google/flatbuffers/
 **Available Versions**:: 
 
 
+    2.0.0-GCCcore-11.2.0
     2.0.0-GCCcore-10.3.0
     1.12.0-GCCcore-10.2.0
-    2.0.0-GCCcore-11.2.0
-    1.12.0-GCCcore-9.3.0
     1.12.0-GCCcore-8.3.0
+    1.12.0-GCCcore-9.3.0
 
 
 
@@ -12032,9 +11900,9 @@ https://github.com/google/flatbuffers/
 **Available Versions**:: 
 
 
-    2.0-GCCcore-10.3.0
     2.0-GCCcore-11.2.0
     1.12-GCCcore-10.2.0
+    2.0-GCCcore-10.3.0
 
 
 
@@ -12058,38 +11926,26 @@ http://flex.sourceforge.net/
 **Available Versions**:: 
 
 
-    2.6.4-GCCcore-10.3.0
-    2.5.39-GCCcore-8.3.0
-    2.6.4-GCCcore-8.1.0
-    2.6.4-GCCcore-7.3.0
-    2.6.0
-    2.6.4-GCCcore-10.2.0
-    2.6.4
-    2.6.3
+    2.6.4-GCCcore-8.2.0
     2.6.4-GCCcore-11.3.0
     2.5.39
-    2.6.4-GCCcore-11.2.0
-    2.6.4-GCCcore-9.3.0
-    2.6.4-GCCcore-8.2.0
+    2.6.4
     2.6.4-GCCcore-8.3.0
+    2.6.3
+    2.5.39-GCCcore-8.3.0
+    2.6.4-GCCcore-7.3.0
+    2.6.0
+    2.6.4-GCCcore-9.3.0
+    2.6.4-GCCcore-11.2.0
+    2.6.4-GCCcore-8.1.0
+    2.6.4-GCCcore-10.3.0
+    2.6.4-GCCcore-10.2.0
 
 
 
 fluent
 ------ 
 
-
-
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
 
 
 **Available Versions**:: 
@@ -12120,12 +11976,12 @@ https://www.freedesktop.org/wiki/Software/fontconfig/
 
 
     2.13.93-GCCcore-10.3.0
+    2.13.94-GCCcore-11.2.0
     2.13.0-GCCcore-7.3.0
-    2.13.92-GCCcore-10.2.0
     2.13.92-GCCcore-9.3.0
     2.13.1-GCCcore-8.2.0
     2.13.1-GCCcore-8.3.0
-    2.13.94-GCCcore-11.2.0
+    2.13.92-GCCcore-10.2.0
 
 
 
@@ -12149,14 +12005,14 @@ https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain
 **Available Versions**:: 
 
 
-    2018b
-    2019a
-    2021b
-    2020b
-    2022a
-    2021a
     2019b
     2020a
+    2019a
+    2020b
+    2022a
+    2021b
+    2018b
+    2021a
 
 
 
@@ -12180,10 +12036,10 @@ GCC based compiler toolchain __with CUDA support__, and including OpenMPI for MP
 **Available Versions**:: 
 
 
-    2020a
-    2019b
-    2020b
     2018b
+    2020b
+    2019b
+    2020a
 
 
 
@@ -12233,13 +12089,13 @@ https://www.freetype.org
 **Available Versions**:: 
 
 
-    2.10.1-GCCcore-9.3.0
-    2.10.4-GCCcore-10.3.0
-    2.11.0-GCCcore-11.2.0
-    2.10.3-GCCcore-10.2.0
     2.10.1-GCCcore-8.3.0
+    2.10.3-GCCcore-10.2.0
     2.9.1-GCCcore-8.2.0
     2.9.1-GCCcore-7.3.0
+    2.11.0-GCCcore-11.2.0
+    2.10.1-GCCcore-9.3.0
+    2.10.4-GCCcore-10.3.0
 
 
 
@@ -12289,10 +12145,10 @@ GNU Compiler Collection (GCC) based compiler toolchain, along with CUDA toolkit.
 **Available Versions**:: 
 
 
-    2020b
     2018b
-    2020a
     2019b
+    2020b
+    2020a
 
 
 
@@ -12334,22 +12190,22 @@ GNU 'gettext' is an important step for the GNU Translation Project, as it is an 
 **More Information** 
 
 
-https://www.gnu.org/software/gettext/ 
+http://www.gnu.org/software/gettext/ 
 
 
 **Available Versions**:: 
 
 
-    0.21-GCCcore-10.3.0
-    0.21
-    0.20.1
-    0.20.1-GCCcore-9.3.0
-    0.19.8.1-GCCcore-8.2.0
-    0.21-GCCcore-11.2.0
     0.19.8.1-GCCcore-7.3.0
+    0.21-GCCcore-10.3.0
+    0.21-GCCcore-11.2.0
+    0.19.8.1-GCCcore-8.2.0
+    0.21-GCCcore-10.2.0
+    0.21
     0.20.1-GCCcore-8.3.0
     0.19.8.1
-    0.21-GCCcore-10.2.0
+    0.20.1
+    0.20.1-GCCcore-9.3.0
 
 
 
@@ -12398,11 +12254,11 @@ http://giflib.sourceforge.net/
 
 
     5.2.1-GCCcore-9.3.0
-    5.2.1-GCCcore-8.3.0
-    5.2.1-GCCcore-10.3.0
     5.1.4-GCCcore-8.2.0
     5.2.1-GCCcore-11.2.0
+    5.2.1-GCCcore-10.3.0
     5.2.1-GCCcore-10.2.0
+    5.2.1-GCCcore-8.3.0
 
 
 
@@ -12426,12 +12282,12 @@ https://git-scm.com/
 **Available Versions**:: 
 
 
-    2.23.0-GCCcore-9.3.0-nodocs
-    2.32.0-GCCcore-10.3.0-nodocs
-    2.23.0-GCCcore-8.3.0-nodocs
-    2.33.1-GCCcore-11.2.0-nodocs
     2.28.0-GCCcore-10.2.0-nodocs
     2.23.0-GCCcore-8.3.0
+    2.33.1-GCCcore-11.2.0-nodocs
+    2.23.0-GCCcore-8.3.0-nodocs
+    2.23.0-GCCcore-9.3.0-nodocs
+    2.32.0-GCCcore-10.3.0-nodocs
 
 
 
@@ -12529,8 +12385,8 @@ https://github.com/aleaxit/gmpy
 
 
     2.1.0b5-GCC-9.3.0
-    2.1.0b5-GCC-10.3.0
     2.1.0b4-GCC-8.3.0
+    2.1.0b5-GCC-10.3.0
 
 
 
@@ -12578,9 +12434,9 @@ https://gnuplot.sourceforge.net/
 **Available Versions**:: 
 
 
+    5.2.8-GCCcore-9.3.0
     5.2.8-GCCcore-8.3.0
     5.4.1-GCCcore-10.2.0
-    5.2.8-GCCcore-9.3.0
     5.4.2-GCCcore-10.3.0
 
 
@@ -12605,12 +12461,12 @@ GNU Compiler Collection (GCC) based compiler toolchain, including OpenMPI for MP
 **Available Versions**:: 
 
 
-    2019b
-    2021a
+    2018b
     2019b-dba
+    2021a
+    2019b
     2021b
     2022a
-    2018b
     2019a
     2020b
     2020a
@@ -12637,10 +12493,10 @@ GNU Compiler Collection (GCC) based compiler toolchain along with CUDA toolkit, 
 **Available Versions**:: 
 
 
-    2019b
     2020a
-    2020b
     2018b
+    2020b
+    2019b
 
 
 
@@ -12682,19 +12538,19 @@ GNU gperf is a perfect hash function generator. For a given list of strings, it 
 **More Information** 
 
 
-https://www.gnu.org/software/gperf/ 
+http://www.gnu.org/software/gperf/ 
 
 
 **Available Versions**:: 
 
 
-    3.1-GCCcore-11.2.0
-    3.1-GCCcore-8.2.0
     3.1-GCCcore-7.3.0
-    3.1-GCCcore-10.2.0
+    3.1-GCCcore-8.2.0
     3.1-GCCcore-10.3.0
-    3.1-GCCcore-9.3.0
     3.1-GCCcore-8.3.0
+    3.1-GCCcore-10.2.0
+    3.1-GCCcore-9.3.0
+    3.1-GCCcore-11.2.0
 
 
 
@@ -12767,10 +12623,10 @@ https://www.gnu.org/software/groff
 **Available Versions**:: 
 
 
-    1.22.4-GCCcore-11.2.0
-    1.22.4-GCCcore-10.3.0
     1.22.4-GCCcore-9.3.0
+    1.22.4-GCCcore-11.2.0
     1.22.4-GCCcore-11.3.0
+    1.22.4-GCCcore-10.3.0
 
 
 
@@ -12819,10 +12675,10 @@ https://www.gnu.org/software/gzip/
 
 
     1.10-GCCcore-9.3.0
-    1.10-GCCcore-10.3.0
-    1.10-GCCcore-11.2.0
     1.10-GCCcore-10.2.0
     1.10-GCCcore-8.3.0
+    1.10-GCCcore-11.2.0
+    1.10-GCCcore-10.3.0
 
 
 
@@ -12846,16 +12702,16 @@ https://www.h5py.org/
 **Available Versions**:: 
 
 
-    2.10.0-foss-2019b-Python-3.7.4
-    2.9.0-foss-2019a
-    3.2.1-foss-2021a
-    2.10.0-fosscuda-2019b-Python-3.7.4
-    3.1.0-foss-2020b
-    2.8.0-foss-2018b-Python-2.7.15
-    2.10.0-fosscuda-2020a-Python-3.8.2
     2.10.0-foss-2020a-Python-3.8.2
-    2.10.0-intel-2020a-Python-3.8.2
     3.1.0-fosscuda-2020b
+    2.10.0-intel-2020a-Python-3.8.2
+    2.10.0-fosscuda-2020a-Python-3.8.2
+    2.9.0-foss-2019a
+    2.10.0-fosscuda-2019b-Python-3.7.4
+    3.2.1-foss-2021a
+    2.8.0-foss-2018b-Python-2.7.15
+    3.1.0-foss-2020b
+    2.10.0-foss-2019b-Python-3.7.4
     3.6.0-foss-2021b
 
 
@@ -12880,16 +12736,16 @@ https://www.gnu.org/software/help2man/
 **Available Versions**:: 
 
 
-    1.47.4
-    1.47.8-GCCcore-8.3.0
-    1.49.2-GCCcore-11.3.0
     1.47.12-GCCcore-9.3.0
     1.47.16-GCCcore-10.2.0
+    1.47.4-GCCcore-7.3.0
     1.48.3-GCCcore-11.2.0
+    1.47.6-GCCcore-8.1.0
+    1.49.2-GCCcore-11.3.0
+    1.47.8-GCCcore-8.3.0
+    1.47.4
     1.47.7-GCCcore-8.2.0
     1.48.3-GCCcore-10.3.0
-    1.47.6-GCCcore-8.1.0
-    1.47.4-GCCcore-7.3.0
 
 
 
@@ -12937,15 +12793,15 @@ https://www.open-mpi.org/projects/hwloc/
 **Available Versions**:: 
 
 
-    1.11.12-GCCcore-9.3.0
-    1.11.11-GCCcore-8.2.0
-    2.5.0-GCCcore-11.2.0
-    2.4.1-GCCcore-10.3.0
     2.2.0-GCCcore-10.2.0
-    2.7.1-GCCcore-11.3.0
+    1.11.11-GCCcore-8.2.0
     1.11.10-GCCcore-7.3.0
     2.2.0-GCCcore-9.3.0
+    2.7.1-GCCcore-11.3.0
     1.11.12-GCCcore-8.3.0
+    2.5.0-GCCcore-11.2.0
+    2.4.1-GCCcore-10.3.0
+    1.11.12-GCCcore-9.3.0
 
 
 
@@ -12969,11 +12825,11 @@ https://github.com/HypothesisWorks/hypothesis
 **Available Versions**:: 
 
 
+    4.44.2-GCCcore-8.3.0-Python-3.7.4
     5.41.5-GCCcore-10.2.0
     6.14.6-GCCcore-11.2.0
-    4.23.4-GCCcore-8.2.0
-    4.44.2-GCCcore-8.3.0-Python-3.7.4
     5.41.2-GCCcore-10.2.0
+    4.23.4-GCCcore-8.2.0
     6.13.1-GCCcore-10.3.0
 
 
@@ -12998,8 +12854,8 @@ https://software.intel.com/en-us/intel-compilers/
 **Available Versions**:: 
 
 
-    2018.3.222-GCC-7.3.0-2.30
     2019.1.144-GCC-8.2.0-2.31.1
+    2018.3.222-GCC-7.3.0-2.30
 
 
 
@@ -13025,9 +12881,9 @@ https://software.intel.com/en-us/intel-compilers/
 
     2019.5.281
     2019.1.144-GCC-8.2.0-2.31.1
-    2018.3.222-GCC-7.3.0-2.30
     2020.4.304
     2020.1.217
+    2018.3.222-GCC-7.3.0-2.30
 
 
 
@@ -13051,8 +12907,8 @@ Intel C, C++ & Fortran compilers with CUDA toolkit
 **Available Versions**:: 
 
 
-    2020b
     2019b
+    2020b
 
 
 
@@ -13095,20 +12951,20 @@ Intel C/C++ and Fortran compilers, alongside Intel MPI.
 **More Information** 
 
 
-https://software.intel.com/parallel-studio-xe 
+http://software.intel.com/en-us/intel-cluster-toolkit-compiler/ 
 
 
 **Available Versions**:: 
 
 
-    2020a
-    2021a
     2019b
-    2020b
+    2018b
+    2020a
     2021b
     2019a
-    2018b
+    2020b
     2022a
+    2021a
 
 
 
@@ -13145,27 +13001,27 @@ imkl
 **Description** 
 
 
-Intel Math Kernel Library is a library of highly optimized, extensively threaded math routines for science, engineering, and financial applications that require maximum performance. Core math functions include BLAS, LAPACK, ScaLAPACK, Sparse Solvers, Fast Fourier Transforms, Vector Math, and more. 
+Intel oneAPI Math Kernel Library 
 
 
 **More Information** 
 
 
-https://software.intel.com/en-us/intel-mkl/ 
+https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html 
 
 
 **Available Versions**:: 
 
 
-    2019.5.281-iimpi-2019b
-    2020.4.304-iimpic-2020b
-    2020.1.217-iimpi-2020a
-    2021.2.0-iimpi-2021a
-    2019.5.281-iimpic-2019b
     2021.4.0
+    2020.4.304-iimpic-2020b
+    2021.2.0-iimpi-2021a
     2020.4.304-iimpi-2020b
-    2018.3.222-iimpi-2018b
+    2019.5.281-iimpic-2019b
+    2019.5.281-iimpi-2019b
     2019.1.144-iimpi-2019a
+    2018.3.222-iimpi-2018b
+    2020.1.217-iimpi-2020a
     2022.1.0
 
 
@@ -13215,16 +13071,16 @@ https://software.intel.com/content/www/us/en/develop/tools/mpi-library.html
 **Available Versions**:: 
 
 
-    2021.2.0-intel-compilers-2021.2.0
     2021.4.0-intel-compilers-2021.4.0
-    2019.9.304-iccifort-2020.4.304
-    2018.5.288-iccifortcuda-2019b
     2018.5.288-iccifort-2019.5.281
     2019.7.217-iccifort-2020.1.217
-    2018.3.222-iccifort-2018.3.222-GCC-7.3.0-2.30
+    2019.9.304-iccifort-2020.4.304
     2019.9.304-iccifortcuda-2020b
-    2021.6.0-intel-compilers-2022.1.0
+    2018.3.222-iccifort-2018.3.222-GCC-7.3.0-2.30
+    2021.2.0-intel-compilers-2021.2.0
     2018.4.274-iccifort-2019.1.144-GCC-8.2.0-2.31.1
+    2021.6.0-intel-compilers-2022.1.0
+    2018.5.288-iccifortcuda-2019b
 
 
 
@@ -13248,13 +13104,13 @@ https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchai
 **Available Versions**:: 
 
 
-    2019a
+    2020b
     2018b
     2019b
-    2020b
+    2019a
     2021a
-    2020a
     2021b
+    2020a
     2022a
 
 
@@ -13279,9 +13135,9 @@ https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.ht
 **Available Versions**:: 
 
 
-    2022.1.0
-    2021.4.0
     2021.2.0
+    2021.4.0
+    2022.1.0
 
 
 
@@ -13324,19 +13180,19 @@ intltool is a set of tools to centralize translation of many different file form
 **More Information** 
 
 
-https://freedesktop.org/wiki/Software/intltool/ 
+http://freedesktop.org/wiki/Software/intltool/ 
 
 
 **Available Versions**:: 
 
 
-    0.51.0-GCCcore-11.2.0
-    0.51.0-GCCcore-9.3.0
     0.51.0-GCCcore-7.3.0-Perl-5.28.0
-    0.51.0-GCCcore-8.3.0
-    0.51.0-GCCcore-8.2.0
+    0.51.0-GCCcore-9.3.0
+    0.51.0-GCCcore-11.2.0
     0.51.0-GCCcore-10.3.0
+    0.51.0-GCCcore-8.3.0
     0.51.0-GCCcore-10.2.0
+    0.51.0-GCCcore-8.2.0
 
 
 
@@ -13432,9 +13288,9 @@ http://jemalloc.net
 **Available Versions**:: 
 
 
-    5.2.1-GCCcore-10.2.0
     5.2.1-GCCcore-10.3.0
     5.2.1-GCCcore-8.3.0
+    5.2.1-GCCcore-10.2.0
 
 
 
@@ -13482,8 +13338,8 @@ https://openkim.org/
 **Available Versions**:: 
 
 
-    2.1.3-intel-2020a
     2.1.3-foss-2020a
+    2.1.3-intel-2020a
 
 
 
@@ -13507,12 +13363,12 @@ https://mesa.freedesktop.org/archive/glu/
 **Available Versions**:: 
 
 
-    9.0.1-GCCcore-10.3.0
-    9.0.1-GCCcore-9.3.0
-    9.0.0-foss-2018b
-    9.0.2-GCCcore-11.2.0
-    9.0.1-GCCcore-10.2.0
     9.0.1-GCCcore-8.3.0
+    9.0.1-GCCcore-10.2.0
+    9.0.1-GCCcore-9.3.0
+    9.0.2-GCCcore-11.2.0
+    9.0.0-foss-2018b
+    9.0.1-GCCcore-10.3.0
 
 
 
@@ -13536,8 +13392,8 @@ https://pagure.io/libaio
 **Available Versions**:: 
 
 
-    0.3.112-GCCcore-10.2.0
     0.3.111-GCCcore-8.3.0
+    0.3.112-GCCcore-10.2.0
     0.3.112-GCCcore-10.3.0
 
 
@@ -13562,10 +13418,10 @@ https://www.libarchive.org/
 **Available Versions**:: 
 
 
-    3.5.1-GCCcore-11.2.0
     3.6.1-GCCcore-11.3.0
-    3.4.3-GCCcore-10.2.0
     3.4.0-GCCcore-8.2.0
+    3.5.1-GCCcore-11.2.0
+    3.4.3-GCCcore-10.2.0
     3.5.1-GCCcore-8.3.0
     3.5.1-GCCcore-10.3.0
 
@@ -13591,11 +13447,11 @@ https://jugit.fz-juelich.de/mlz/libcerf
 **Available Versions**:: 
 
 
+    1.14-GCCcore-10.2.0
+    1.17-GCCcore-10.3.0
     1.13-GCCcore-9.3.0
     1.13-GCCcore-8.3.0
     1.7-GCCcore-7.3.0
-    1.17-GCCcore-10.3.0
-    1.14-GCCcore-10.2.0
 
 
 
@@ -13716,13 +13572,13 @@ https://dri.freedesktop.org
 **Available Versions**:: 
 
 
+    2.4.106-GCCcore-10.3.0
+    2.4.99-GCCcore-8.3.0
+    2.4.100-GCCcore-9.3.0
+    2.4.102-GCCcore-10.2.0
     2.4.92-GCCcore-7.3.0
     2.4.97-GCCcore-8.2.0
     2.4.107-GCCcore-11.2.0
-    2.4.102-GCCcore-10.2.0
-    2.4.99-GCCcore-8.3.0
-    2.4.106-GCCcore-10.3.0
-    2.4.100-GCCcore-9.3.0
 
 
 
@@ -13818,10 +13674,10 @@ https://github.com/anholt/libepoxy
 **Available Versions**:: 
 
 
-    1.5.3-GCCcore-8.2.0
-    1.5.4-GCCcore-9.3.0
-    1.5.4-GCCcore-10.2.0
     1.5.4-GCCcore-8.3.0
+    1.5.3-GCCcore-8.2.0
+    1.5.4-GCCcore-10.2.0
+    1.5.4-GCCcore-9.3.0
 
 
 
@@ -13833,25 +13689,25 @@ libevent
 **Description** 
 
 
-The libevent API provides a mechanism to execute a callback function when a specific event occurs on a file descriptor or after a timeout has been reached. Furthermore, libevent also support callbacks due to signals or regular timeouts. 
+The libevent API provides a mechanism to execute a callback function when a specific event occurs on a file descriptor or after a timeout has been reached.  Furthermore, libevent also support callbacks due to signals or regular timeouts. 
 
 
 **More Information** 
 
 
-http://libevent.org/ 
+https://libevent.org/ 
 
 
 **Available Versions**:: 
 
 
-    2.1.8
-    2.1.12-GCCcore-11.2.0
-    2.1.11-GCCcore-9.3.0
-    2.1.12-GCCcore-10.3.0
     2.1.12-GCCcore-11.3.0
     2.1.12-GCCcore-10.2.0
     2.1.11-GCCcore-8.3.0
+    2.1.12-GCCcore-10.3.0
+    2.1.8
+    2.1.12-GCCcore-11.2.0
+    2.1.11-GCCcore-9.3.0
 
 
 
@@ -13875,11 +13731,11 @@ https://ofiwg.github.io/libfabric/
 **Available Versions**:: 
 
 
-    1.12.1-GCCcore-10.3.0
-    1.11.0-GCCcore-10.2.0
     1.15.1-GCCcore-11.3.0
-    1.13.2-GCCcore-11.2.0
+    1.11.0-GCCcore-10.2.0
     1.11.0-GCCcore-9.3.0
+    1.12.1-GCCcore-10.3.0
+    1.13.2-GCCcore-11.2.0
 
 
 
@@ -13897,21 +13753,21 @@ The libffi library provides a portable, high level programming interface to vari
 **More Information** 
 
 
-http://sourceware.org/libffi/ 
+https://sourceware.org/libffi/ 
 
 
 **Available Versions**:: 
 
 
-    3.2.1-GCCcore-10.2.0
-    3.2.1-GCCcore-8.3.0
-    3.3-GCCcore-10.3.0
-    3.3-GCCcore-9.3.0
-    3.2.1-GCCcore-8.2.0
-    3.2.1-GCCcore-7.3.0
-    3.4.2-GCCcore-11.2.0
-    3.3-GCCcore-10.2.0
     3.4.2-GCCcore-11.3.0
+    3.4.2-GCCcore-11.2.0
+    3.3-GCCcore-9.3.0
+    3.2.1-GCCcore-7.3.0
+    3.2.1-GCCcore-8.3.0
+    3.2.1-GCCcore-8.2.0
+    3.3-GCCcore-10.3.0
+    3.2.1-GCCcore-10.2.0
+    3.3-GCCcore-10.2.0
 
 
 
@@ -13935,11 +13791,11 @@ https://libgd.github.io/
 **Available Versions**:: 
 
 
-    2.3.0-GCCcore-10.2.0
-    2.3.1-GCCcore-10.3.0
-    2.2.5-GCCcore-8.3.0
-    2.2.5-GCCcore-7.3.0
     2.3.0-GCCcore-9.3.0
+    2.3.0-GCCcore-10.2.0
+    2.2.5-GCCcore-7.3.0
+    2.2.5-GCCcore-8.3.0
+    2.3.1-GCCcore-10.3.0
 
 
 
@@ -13963,13 +13819,13 @@ https://directory.fsf.org/wiki/Libgeotiff
 **Available Versions**:: 
 
 
-    1.5.1-GCCcore-8.3.0
-    1.6.0-GCCcore-10.2.0
-    1.5.1-GCCcore-9.3.0
     1.4.2-foss-2018b
+    1.5.1-GCCcore-8.3.0
+    1.5.1-GCCcore-8.2.0
+    1.5.1-GCCcore-9.3.0
+    1.6.0-GCCcore-10.2.0
     1.7.0-GCCcore-11.2.0
     1.6.0-GCCcore-10.3.0
-    1.5.1-GCCcore-8.2.0
 
 
 
@@ -13993,8 +13849,8 @@ https://libgit2.org/
 **Available Versions**:: 
 
 
-    1.1.0-GCCcore-10.3.0
     1.1.1-GCCcore-11.2.0
+    1.1.0-GCCcore-10.3.0
 
 
 
@@ -14042,10 +13898,10 @@ https://gitlab.freedesktop.org/glvnd/libglvnd
 **Available Versions**:: 
 
 
-    1.3.3-GCCcore-10.3.0
     1.3.2-GCCcore-10.2.0
     1.2.0-GCCcore-9.3.0
     1.3.3-GCCcore-11.2.0
+    1.3.3-GCCcore-10.3.0
 
 
 
@@ -14095,11 +13951,11 @@ https://www.gnu.org/software/libiconv
 
 
     1.16-GCCcore-10.3.0
-    1.16-GCCcore-8.2.0
-    1.16-GCCcore-11.2.0
-    1.16-GCCcore-10.2.0
     1.15-GCCcore-7.3.0
+    1.16-GCCcore-8.2.0
+    1.16-GCCcore-10.2.0
     1.16-GCCcore-9.3.0
+    1.16-GCCcore-11.2.0
     1.16-GCCcore-8.3.0
 
 
@@ -14148,12 +14004,12 @@ https://sourceforge.net/projects/libjpeg-turbo/
 **Available Versions**:: 
 
 
-    2.0.3-GCCcore-8.3.0
-    2.0.0-GCCcore-7.3.0
     2.0.4-GCCcore-9.3.0
-    2.0.6-GCCcore-11.2.0
     2.0.6-GCCcore-10.3.0
+    2.0.0-GCCcore-7.3.0
+    2.0.6-GCCcore-11.2.0
     2.0.5-GCCcore-10.2.0
+    2.0.3-GCCcore-8.3.0
     2.0.2-GCCcore-8.2.0
 
 
@@ -14224,20 +14080,20 @@ Generic PCI access library.
 **More Information** 
 
 
-https://cgit.freedesktop.org/xorg/lib/libpciaccess/ 
+http://cgit.freedesktop.org/xorg/lib/libpciaccess/ 
 
 
 **Available Versions**:: 
 
 
-    0.16-GCCcore-11.2.0
+    0.14-GCCcore-7.3.0
+    0.14-GCCcore-8.2.0
     0.14-GCCcore-8.3.0
     0.16-GCCcore-9.3.0
     0.16-GCCcore-10.3.0
-    0.14-GCCcore-7.3.0
-    0.14-GCCcore-8.2.0
-    0.16-GCCcore-11.3.0
     0.16-GCCcore-10.2.0
+    0.16-GCCcore-11.2.0
+    0.16-GCCcore-11.3.0
 
 
 
@@ -14262,12 +14118,12 @@ http://www.libpng.org/pub/png/libpng.html
 
 
     1.6.37-GCCcore-10.3.0
-    1.6.37-GCCcore-10.2.0
-    1.6.37-GCCcore-8.3.0
-    1.6.37-GCCcore-9.3.0
     1.6.34-GCCcore-7.3.0
-    1.6.36-GCCcore-8.2.0
+    1.6.37-GCCcore-10.2.0
     1.6.37-GCCcore-11.2.0
+    1.6.37-GCCcore-9.3.0
+    1.6.37-GCCcore-8.3.0
+    1.6.36-GCCcore-8.2.0
 
 
 
@@ -14291,16 +14147,16 @@ https://tiswww.case.edu/php/chet/readline/rltop.html
 **Available Versions**:: 
 
 
+    8.1.2-GCCcore-11.3.0
+    7.0-GCCcore-10.2.0
+    8.0-GCCcore-8.3.0
+    8.1-GCCcore-11.2.0
+    8.0-GCCcore-8.2.0
     8.0-GCCcore-10.2.0
     8.1-GCCcore-10.3.0
-    8.0-GCCcore-9.3.0
     8.0-GCCcore-7.3.0
-    8.0-GCCcore-8.3.0
-    7.0-GCCcore-10.2.0
+    8.0-GCCcore-9.3.0
     7.0-GCCcore-7.3.0
-    8.1-GCCcore-11.2.0
-    8.1.2-GCCcore-11.3.0
-    8.0-GCCcore-8.2.0
 
 
 
@@ -14349,11 +14205,11 @@ http://www.mega-nerd.com/libsndfile
 
 
     1.0.31-GCCcore-10.3.0
-    1.0.28-GCCcore-10.2.0
     1.0.31-GCCcore-11.2.0
+    1.0.28-GCCcore-7.3.0
+    1.0.28-GCCcore-10.2.0
     1.0.28-GCCcore-8.3.0
     1.0.28-GCCcore-9.3.0
-    1.0.28-GCCcore-7.3.0
 
 
 
@@ -14377,11 +14233,11 @@ https://doc.libsodium.org/
 **Available Versions**:: 
 
 
-    1.0.18-GCCcore-10.3.0
-    1.0.18-GCCcore-11.2.0
     1.0.18-GCCcore-9.3.0
     1.0.18-GCCcore-10.2.0
+    1.0.18-GCCcore-10.3.0
     1.0.18-GCCcore-8.3.0
+    1.0.18-GCCcore-11.2.0
 
 
 
@@ -14429,10 +14285,10 @@ https://sourceforge.net/projects/libtirpc/
 **Available Versions**:: 
 
 
-    1.3.2-GCCcore-10.3.0
     1.3.1-GCCcore-10.2.0
-    1.2.6-GCCcore-8.3.0
     1.3.2-GCCcore-11.2.0
+    1.3.2-GCCcore-10.3.0
+    1.2.6-GCCcore-8.3.0
 
 
 
@@ -14456,14 +14312,14 @@ http://www.gnu.org/software/libtool
 **Available Versions**:: 
 
 
-    2.4.6-GCCcore-8.3.0
-    2.4.7-GCCcore-11.3.0
-    2.4.6-GCCcore-8.1.0
     2.4.6-GCCcore-7.3.0
     2.4.6-GCCcore-8.2.0
-    2.4.6-GCCcore-11.2.0
-    2.4.6-GCCcore-9.3.0
+    2.4.6-GCCcore-8.1.0
     2.4.6-GCCcore-10.3.0
+    2.4.6-GCCcore-11.2.0
+    2.4.6-GCCcore-8.3.0
+    2.4.6-GCCcore-9.3.0
+    2.4.7-GCCcore-11.3.0
     2.4.6-GCCcore-10.2.0
 
 
@@ -14488,9 +14344,9 @@ https://www.gnu.org/software/libunistring/
 **Available Versions**:: 
 
 
+    0.9.10-GCCcore-9.3.0
     0.9.10-GCCcore-8.3.0
     0.9.10-GCCcore-8.2.0
-    0.9.10-GCCcore-9.3.0
 
 
 
@@ -14514,13 +14370,13 @@ https://www.nongnu.org/libunwind/
 **Available Versions**:: 
 
 
-    1.4.0-GCCcore-10.3.0
+    1.3.1-GCCcore-9.3.0
+    1.2.1-GCCcore-7.3.0
     1.5.0-GCCcore-11.2.0
     1.3.1-GCCcore-8.3.0
-    1.4.0-GCCcore-10.2.0
-    1.2.1-GCCcore-7.3.0
     1.3.1-GCCcore-8.2.0
-    1.3.1-GCCcore-9.3.0
+    1.4.0-GCCcore-10.3.0
+    1.4.0-GCCcore-10.2.0
 
 
 
@@ -14569,9 +14425,9 @@ https://xiph.org/vorbis/
 **Available Versions**:: 
 
 
-    1.3.7-GCCcore-10.3.0
-    1.3.7-GCCcore-10.2.0
     1.3.7-GCCcore-11.2.0
+    1.3.7-GCCcore-10.2.0
+    1.3.7-GCCcore-10.3.0
 
 
 
@@ -14596,8 +14452,8 @@ https://developers.google.com/speed/webp/
 
 
     1.1.0-GCCcore-9.3.0
-    1.0.2-GCCcore-8.2.0
     1.1.0-GCCcore-10.2.0
+    1.0.2-GCCcore-8.2.0
 
 
 
@@ -14621,23 +14477,23 @@ https://www.tddft.org/programs/libxc
 **Available Versions**:: 
 
 
-    4.3.4-intel-2020a
-    5.2.3-intel-compilers-2022.1.0
-    4.3.4-GCC-8.3.0
-    4.3.4-iccifort-2019.5.281
-    5.1.5-GCC-10.3.0
-    4.3.4-GCC-8.2.0-2.31.1
-    5.2.3-GCC-11.3.0
-    3.0.1-GCC-8.2.0-2.31.1
-    4.3.4-GCC-7.3.0-2.30
-    4.3.4-GCC-9.3.0
-    4.3.4-iccifort-2020.1.217
-    5.1.2-GCC-10.2.0
-    4.3.4-GCC-10.2.0
-    4.3.4-iccifort-2019.1.144-GCC-8.2.0-2.31.1
-    4.3.4-iccifort-2020.4.304
     3.0.1-foss-2020a
+    4.3.4-intel-2020a
+    4.3.4-GCC-8.2.0-2.31.1
+    5.1.5-GCC-10.3.0
+    4.3.4-iccifort-2020.4.304
+    4.3.4-GCC-7.3.0-2.30
+    4.3.4-iccifort-2019.1.144-GCC-8.2.0-2.31.1
+    4.3.4-GCC-9.3.0
+    5.1.2-GCC-10.2.0
+    4.3.4-iccifort-2020.1.217
     5.1.5-intel-compilers-2021.2.0
+    4.3.4-GCC-8.3.0
+    5.2.3-intel-compilers-2022.1.0
+    3.0.1-GCC-8.2.0-2.31.1
+    4.3.4-GCC-10.2.0
+    4.3.4-iccifort-2019.5.281
+    5.2.3-GCC-11.3.0
 
 
 
@@ -14685,15 +14541,15 @@ http://xmlsoft.org/
 **Available Versions**:: 
 
 
-    2.9.10-GCCcore-10.3.0
-    2.9.10-GCCcore-10.2.0
-    2.9.9-GCCcore-8.3.0
-    2.9.9-GCCcore-9.3.0
-    2.9.10-GCCcore-11.2.0
-    2.9.10-GCCcore-9.3.0
     2.9.13-GCCcore-11.3.0
-    2.9.8-GCCcore-7.3.0
+    2.9.9-GCCcore-9.3.0
     2.9.8-GCCcore-8.2.0
+    2.9.9-GCCcore-8.3.0
+    2.9.10-GCCcore-9.3.0
+    2.9.8-GCCcore-7.3.0
+    2.9.10-GCCcore-10.2.0
+    2.9.10-GCCcore-11.2.0
+    2.9.10-GCCcore-10.3.0
 
 
 
@@ -14717,10 +14573,10 @@ http://xmlsoft.org/
 **Available Versions**:: 
 
 
+    1.1.34-GCCcore-10.2.0
+    1.1.34-GCCcore-9.3.0
     1.1.32-GCCcore-7.3.0
     1.1.34-GCCcore-10.3.0
-    1.1.34-GCCcore-9.3.0
-    1.1.34-GCCcore-10.2.0
 
 
 
@@ -14744,12 +14600,12 @@ https://github.com/hfp/libxsmm
 **Available Versions**:: 
 
 
-    1.10-foss-2019b
-    1.16.1-GCC-10.2.0
-    1.16.1-iccifort-2020.4.304
-    1.16.1-GCC-9.3.0
-    1.16.1-iccifort-2020.1.217
     1.10-GCC-8.2.0-2.31.1
+    1.16.1-iccifort-2020.1.217
+    1.16.1-iccifort-2020.4.304
+    1.10-foss-2019b
+    1.16.1-GCC-9.3.0
+    1.16.1-GCC-10.2.0
 
 
 
@@ -14767,16 +14623,16 @@ LibYAML is a YAML parser and emitter written in C.
 **More Information** 
 
 
-http://pyyaml.org/wiki/LibYAML 
+https://pyyaml.org/wiki/LibYAML 
 
 
 **Available Versions**:: 
 
 
-    0.2.2-GCCcore-8.2.0
+    0.2.2-GCCcore-8.3.0
     0.2.2-GCCcore-9.3.0
     0.2.5-GCCcore-10.2.0
-    0.2.2-GCCcore-8.3.0
+    0.2.2-GCCcore-8.2.0
 
 
 
@@ -14824,8 +14680,8 @@ https://sourceforge.net/projects/lpsolve/
 **Available Versions**:: 
 
 
-    5.5.2.5-GCC-8.3.0
     5.5.2.11-GCC-10.2.0
+    5.5.2.5-GCC-8.3.0
 
 
 
@@ -14843,15 +14699,15 @@ The lxml XML toolkit is a Pythonic binding for the C libraries libxml2 and libxs
 **More Information** 
 
 
-http://lxml.de/ 
+https://lxml.de/ 
 
 
 **Available Versions**:: 
 
 
+    4.6.3-GCCcore-10.3.0
     4.2.5-foss-2018b-Python-2.7.15
     4.5.2-foss-2020a-Python-3.8.2
-    4.6.3-GCCcore-10.3.0
 
 
 
@@ -14875,11 +14731,11 @@ https://lz4.github.io/lz4/
 **Available Versions**:: 
 
 
-    1.9.3-GCCcore-11.2.0
-    1.9.2-GCCcore-8.3.0
+    1.9.2-GCCcore-9.3.0
     1.9.2-GCCcore-10.2.0
     1.9.3-GCCcore-10.3.0
-    1.9.2-GCCcore-9.3.0
+    1.9.2-GCCcore-8.3.0
+    1.9.3-GCCcore-11.2.0
 
 
 
@@ -14903,9 +14759,9 @@ https://icl.cs.utk.edu/magma/
 **Available Versions**:: 
 
 
-    2.5.4-fosscuda-2019b
     2.5.1-fosscuda-2019b
     2.5.4-fosscuda-2020b
+    2.5.4-fosscuda-2019b
 
 
 
@@ -14955,8 +14811,8 @@ https://www.gnu.org/software/texinfo/
 
 
     6.7-GCCcore-9.3.0
-    6.7-GCCcore-10.3.0
     6.7-GCCcore-10.3.0-minimal
+    6.7-GCCcore-10.3.0
 
 
 
@@ -14980,16 +14836,16 @@ https://matplotlib.org
 **Available Versions**:: 
 
 
-    3.2.1-intel-2020a-Python-3.8.2
     3.2.1-foss-2020a-Python-3.8.2
-    2.2.3-fosscuda-2018b-Python-2.7.15
-    3.1.1-foss-2019b-Python-3.7.4
-    2.2.3-foss-2018b-Python-2.7.15
-    2.2.4-foss-2019b-Python-2.7.16
-    3.3.3-foss-2020b
-    3.3.3-fosscuda-2020b
     3.4.2-foss-2021a
+    3.2.1-intel-2020a-Python-3.8.2
+    2.2.3-foss-2018b-Python-2.7.15
     2.2.4-fosscuda-2019b-Python-2.7.16
+    2.2.4-foss-2019b-Python-2.7.16
+    2.2.3-fosscuda-2018b-Python-2.7.15
+    3.3.3-foss-2020b
+    3.1.1-foss-2019b-Python-3.7.4
+    3.3.3-fosscuda-2020b
 
 
 
@@ -15072,18 +14928,6 @@ mpitest
 
 
 
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
-
-
 **Available Versions**:: 
 
 
@@ -15111,8 +14955,8 @@ https://mpmath.org/
 **Available Versions**:: 
 
 
-    1.1.0-GCCcore-9.3.0-Python-3.8.2
     1.0.0-foss-2018b-Python-2.7.15
+    1.1.0-GCCcore-9.3.0-Python-3.8.2
 
 
 
@@ -15185,8 +15029,8 @@ https://cran.r-project.org/web/packages/ncdf4
 **Available Versions**:: 
 
 
-    1.17-foss-2019b
     1.17-foss-2021a-R-4.1.0
+    1.17-foss-2019b
 
 
 
@@ -15204,24 +15048,24 @@ The Ncurses (new curses) library is a free software emulation of curses in Syste
 **More Information** 
 
 
-https://www.gnu.org/software/ncurses/ 
+http://www.gnu.org/software/ncurses/ 
 
 
 **Available Versions**:: 
 
 
-    6.2-GCCcore-10.2.0
-    6.3-GCCcore-11.3.0
-    6.2-GCCcore-10.3.0
-    6.1-GCCcore-8.3.0
     6.1-GCCcore-10.2.0
-    6.2-GCCcore-9.3.0
-    6.2
-    6.2-GCCcore-11.2.0
-    6.0
     6.1-GCCcore-8.2.0
+    6.2-GCCcore-9.3.0
     6.1-GCCcore-7.3.0
+    6.2-GCCcore-10.2.0
+    6.2
+    6.0
+    6.2-GCCcore-10.3.0
+    6.2-GCCcore-11.2.0
     6.1
+    6.3-GCCcore-11.3.0
+    6.1-GCCcore-8.3.0
 
 
 
@@ -15257,7 +15101,7 @@ netCDF
 **Description** 
 
 
-NetCDF (network Common Data Form) is a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. 
+NetCDF (network Common Data Form) is a set of software libraries  and machine-independent data formats that support the creation, access, and sharing of array-oriented  scientific data. 
 
 
 **More Information** 
@@ -15269,19 +15113,19 @@ https://www.unidata.ucar.edu/software/netcdf/
 **Available Versions**:: 
 
 
-    4.7.4-gompi-2020a
-    4.7.4-iimpi-2020a
+    4.6.2-gompi-2019a
+    4.8.0-gompi-2021a
     4.7.4-iimpi-2020b
-    4.7.4-gompic-2020b
-    4.6.1-foss-2018b
-    4.7.1-gompic-2019b
+    4.7.4-iimpi-2020a
     4.6.1-fosscuda-2018b
     4.7.1-gompi-2019b
-    4.8.0-gompi-2021a
-    4.6.2-gompi-2019a
-    4.8.1-gompi-2021b
     4.7.4-gompi-2020b
+    4.7.1-gompic-2019b
     4.7.1-gompi-2019b-dba
+    4.8.1-gompi-2021b
+    4.6.1-foss-2018b
+    4.7.4-gompic-2020b
+    4.7.4-gompi-2020a
 
 
 
@@ -15305,9 +15149,9 @@ https://www.unidata.ucar.edu/software/netcdf/
 **Available Versions**:: 
 
 
+    4.3.1-gompi-2020b
     4.3.1-gompi-2021a
     4.3.1-iimpi-2020a
-    4.3.1-gompi-2020b
 
 
 
@@ -15319,29 +15163,29 @@ netCDF-Fortran
 **Description** 
 
 
-NetCDF (network Common Data Form) is a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. (OpenMPI --disable-builtin-atomics) 
+NetCDF (network Common Data Form) is a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. 
 
 
 **More Information** 
 
 
-https://www.unidata.ucar.edu/software/netcdf/ 
+http://www.unidata.ucar.edu/software/netcdf/ 
 
 
 **Available Versions**:: 
 
 
-    4.5.2-gompi-2019b-dba
-    4.5.3-gompic-2020b
     4.4.4-foss-2018b
-    4.5.2-iimpi-2020a
-    4.5.3-iimpi-2020b
+    4.5.2-gompi-2019b
     4.4.4-fosscuda-2018b
-    4.5.2-gompi-2020a
+    4.5.3-gompic-2020b
     4.5.3-gompi-2020b
     4.5.2-gompic-2019b
+    4.5.3-iimpi-2020b
+    4.5.2-iimpi-2020a
+    4.5.2-gompi-2019b-dba
+    4.5.2-gompi-2020a
     4.5.3-gompi-2021a
-    4.5.2-gompi-2019b
 
 
 
@@ -15383,18 +15227,18 @@ Nettle is a cryptographic library that is designed to fit easily in more or less
 **More Information** 
 
 
-http://www.lysator.liu.se/~nisse/nettle/ 
+https://www.lysator.liu.se/~nisse/nettle/ 
 
 
 **Available Versions**:: 
 
 
-    3.4.1-GCCcore-8.2.0
-    3.5.1-GCCcore-8.3.0
-    3.7.3-GCCcore-11.2.0
-    3.4-foss-2018b
-    3.6-GCCcore-10.2.0
     3.7.2-GCCcore-10.3.0
+    3.7.3-GCCcore-11.2.0
+    3.5.1-GCCcore-8.3.0
+    3.4.1-GCCcore-8.2.0
+    3.6-GCCcore-10.2.0
+    3.4-foss-2018b
 
 
 
@@ -15406,7 +15250,7 @@ networkx
 **Description** 
 
 
-NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. 
+NetworkX is a Python package for the creation, manipulation,and study of the structure, dynamics, and functions of complex networks. 
 
 
 **More Information** 
@@ -15418,14 +15262,14 @@ https://pypi.python.org/pypi/networkx
 **Available Versions**:: 
 
 
+    2.5.1-foss-2021a
+    2.4-foss-2020a-Python-3.8.2
+    2.4-foss-2019a-Python-3.7.2
+    2.4-foss-2019b-Python-3.7.4
     2.3-foss-2019a-Python-3.7.2
     2.5-foss-2020b
-    2.5.1-foss-2021a
-    2.4-foss-2019a-Python-3.7.2
-    2.2-foss-2018b-Python-2.7.15
-    2.4-foss-2019b-Python-3.7.4
     2.6.3-foss-2021b
-    2.4-foss-2020a-Python-3.8.2
+    2.2-foss-2018b-Python-2.7.15
 
 
 
@@ -15524,11 +15368,11 @@ https://github.com/google/nsync
 **Available Versions**:: 
 
 
-    1.24.0-GCCcore-11.2.0
-    1.24.0-GCCcore-10.3.0
-    1.24.0-GCCcore-9.3.0
     1.24.0-GCCcore-10.2.0
+    1.24.0-GCCcore-9.3.0
+    1.24.0-GCCcore-11.2.0
     1.24.0-GCCcore-8.3.0
+    1.24.0-GCCcore-10.3.0
 
 
 
@@ -15554,13 +15398,13 @@ http://oss.sgi.com/projects/libnuma/
 
     2.0.12-GCCcore-8.2.0
     2.0.12-GCCcore-8.3.0
-    2.0.11-GCCcore-7.3.0
-    2.0.11-GCCcore-8.1.0
-    2.0.14-GCCcore-10.3.0
     2.0.14-GCCcore-11.2.0
     2.0.13-GCCcore-9.3.0
-    2.0.13-GCCcore-10.2.0
     2.0.14-GCCcore-11.3.0
+    2.0.13-GCCcore-10.2.0
+    2.0.11-GCCcore-8.1.0
+    2.0.11-GCCcore-7.3.0
+    2.0.14-GCCcore-10.3.0
 
 
 
@@ -15584,8 +15428,8 @@ https://numba.pydata.org/
 **Available Versions**:: 
 
 
-    0.46.0-foss-2019a
     0.53.1-foss-2021a
+    0.46.0-foss-2019a
 
 
 
@@ -15634,12 +15478,12 @@ https://savannah.gnu.org/projects/parallel/
 
 
     20200522-GCCcore-9.3.0
-    20190222-GCCcore-7.3.0
-    20190622-GCCcore-8.2.0
-    20210722-GCCcore-11.2.0
-    20210322-GCCcore-10.2.0
     20190922-GCCcore-8.3.0
+    20210722-GCCcore-11.2.0
     20210622-GCCcore-10.3.0
+    20190622-GCCcore-8.2.0
+    20210322-GCCcore-10.2.0
+    20190222-GCCcore-7.3.0
 
 
 
@@ -15761,13 +15605,13 @@ http://www.pixman.org/
 **Available Versions**:: 
 
 
-    0.38.4-GCCcore-9.3.0
-    0.38.4-GCCcore-8.3.0
-    0.40.0-GCCcore-10.3.0
-    0.34.0-GCCcore-7.3.0
-    0.40.0-GCCcore-11.2.0
-    0.38.0-GCCcore-8.2.0
     0.40.0-GCCcore-10.2.0
+    0.38.0-GCCcore-8.2.0
+    0.40.0-GCCcore-10.3.0
+    0.38.4-GCCcore-9.3.0
+    0.40.0-GCCcore-11.2.0
+    0.38.4-GCCcore-8.3.0
+    0.34.0-GCCcore-7.3.0
 
 
 
@@ -15792,13 +15636,13 @@ http://www.freedesktop.org/wiki/Software/pkg-config/
 
 
     0.29.2-GCCcore-8.2.0
-    0.29.2-GCCcore-9.3.0
-    0.29.2-GCCcore-11.2.0
-    0.29.2-GCCcore-7.3.0
     0.29.2-GCCcore-8.3.0
-    0.29.2-GCCcore-10.3.0
+    0.29.2-GCCcore-11.2.0
     0.29.2
+    0.29.2-GCCcore-10.3.0
+    0.29.2-GCCcore-9.3.0
     0.29.2-GCCcore-10.2.0
+    0.29.2-GCCcore-7.3.0
 
 
 
@@ -15846,13 +15690,13 @@ https://github.com/matze/pkgconfig
 **Available Versions**:: 
 
 
-    1.5.5-GCCcore-11.2.0-python
-    1.5.4-GCCcore-10.3.0-python
-    1.3.1-foss-2018b-Python-2.7.15
-    1.5.1-GCCcore-9.3.0-Python-3.8.2
     1.5.1-GCCcore-8.3.0-Python-3.7.4
+    1.5.5-GCCcore-11.2.0-python
     1.5.1-GCCcore-8.2.0-python
     1.5.1-GCCcore-10.2.0-python
+    1.5.1-GCCcore-9.3.0-Python-3.8.2
+    1.3.1-foss-2018b-Python-2.7.15
+    1.5.4-GCCcore-10.3.0-python
 
 
 
@@ -15876,8 +15720,8 @@ https://portablecl.org
 **Available Versions**:: 
 
 
-    1.6-GCC-10.2.0
     1.6-gcccuda-2020b
+    1.6-GCC-10.2.0
 
 
 
@@ -15901,8 +15745,8 @@ http://smithlabresearch.org/software/preseq
 **Available Versions**:: 
 
 
-    2.0.3-foss-2018b
     3.1.2-foss-2020b
+    2.0.3-foss-2018b
 
 
 
@@ -15950,9 +15794,9 @@ https://github.com/google/protobuf/
 **Available Versions**:: 
 
 
-    3.17.3-GCCcore-10.3.0
-    3.13.0-GCCcore-9.3.0
     3.14.0-GCCcore-10.2.0
+    3.13.0-GCCcore-9.3.0
+    3.17.3-GCCcore-10.3.0
     3.17.3-GCCcore-11.2.0
     3.10.0-GCCcore-8.3.0
 
@@ -15978,13 +15822,13 @@ https://github.com/google/protobuf/
 **Available Versions**:: 
 
 
-    3.17.3-GCCcore-10.3.0
-    3.10.0-fosscuda-2019b-Python-3.7.4
-    3.13.0-foss-2020a-Python-3.8.2
-    3.14.0-GCCcore-10.2.0
-    3.17.3-GCCcore-11.2.0
     3.10.0-foss-2019b-Python-3.7.4
+    3.13.0-foss-2020a-Python-3.8.2
+    3.17.3-GCCcore-11.2.0
     3.13.0-fosscuda-2020a-Python-3.8.2
+    3.17.3-GCCcore-10.3.0
+    3.14.0-GCCcore-10.2.0
+    3.10.0-fosscuda-2019b-Python-3.7.4
 
 
 
@@ -16104,11 +15948,11 @@ https://pybind11.readthedocs.io
 **Available Versions**:: 
 
 
-    2.6.2-GCCcore-10.3.0
-    2.4.3-GCCcore-8.3.0-Python-3.7.4
     2.6.0-GCCcore-10.2.0
     2.4.3-GCCcore-9.3.0-Python-3.8.2
+    2.6.2-GCCcore-10.3.0
     2.7.1-GCCcore-11.2.0
+    2.4.3-GCCcore-8.3.0-Python-3.7.4
 
 
 
@@ -16180,9 +16024,9 @@ http://wiki.sunqm.net/libcint
 **Available Versions**:: 
 
 
-    3.1.1-foss-2020a
     3.0.18-foss-2019a
     4.0.5-foss-2020a
+    3.1.1-foss-2020a
 
 
 
@@ -16254,10 +16098,10 @@ https://re2c.org/
 **Available Versions**:: 
 
 
-    1.2.1-GCCcore-8.3.0
     1.3-GCCcore-9.3.0
     2.1.1-GCCcore-10.3.0
     2.0.3-GCCcore-10.2.0
+    1.2.1-GCCcore-8.3.0
 
 
 
@@ -16300,14 +16144,14 @@ Provides bindings to the 'Geospatial' Data Abstraction Library ('GDAL') (>= 1.11
 **More Information** 
 
 
-https://rgdal.r-forge.r-project.org/ 
+http://rgdal.r-forge.r-project.org/ 
 
 
 **Available Versions**:: 
 
 
-    1.5-23-foss-2021a-R-4.1.0
     1.4-8-foss-2020a-R-4.0.2
+    1.5-23-foss-2021a-R-4.1.0
 
 
 
@@ -16379,9 +16223,9 @@ https://scikit-build.readthedocs.io/en/latest
 **Available Versions**:: 
 
 
-    0.11.1-GCCcore-10.3.0
     0.11.1-foss-2020b
     0.11.1-GCCcore-11.2.0
+    0.11.1-GCCcore-10.3.0
 
 
 
@@ -16406,9 +16250,9 @@ https://scikit-learn.org/stable/index.html
 
 
     0.21.3-foss-2019b-Python-3.7.4
+    0.23.1-foss-2020a-Python-3.8.2
     0.20.3-foss-2019a
     0.24.2-foss-2021a
-    0.23.1-foss-2020a-Python-3.8.2
 
 
 
@@ -16578,9 +16422,9 @@ https://github.com/google/snappy
 
     1.1.7-GCCcore-8.3.0
     1.1.8-GCCcore-10.3.0
-    1.1.8-GCCcore-9.3.0
-    1.1.8-GCCcore-10.2.0
     1.1.9-GCCcore-11.2.0
+    1.1.8-GCCcore-10.2.0
+    1.1.8-GCCcore-9.3.0
 
 
 
@@ -16676,8 +16520,8 @@ https://pypi.python.org/pypi/spglib
 **Available Versions**:: 
 
 
-    1.16.1-foss-2021a
     1.16.0-foss-2020b
+    1.16.1-foss-2021a
 
 
 
@@ -16719,16 +16563,16 @@ SymPy is a Python library for symbolic mathematics. It aims to become a full-fea
 **More Information** 
 
 
-https://sympy.org/ 
+http://sympy.org/ 
 
 
 **Available Versions**:: 
 
 
-    1.5.1-foss-2019b-Python-3.7.4
+    1.4-foss-2019a
     1.8-foss-2021a
     1.6.2-foss-2020a-Python-3.8.2
-    1.4-foss-2019a
+    1.5.1-foss-2019b-Python-3.7.4
 
 
 
@@ -16746,17 +16590,17 @@ Intel(R) Threading Building Blocks (Intel(R) TBB) lets you easily write parallel
 **More Information** 
 
 
-https://github.com/oneapi-src/oneTBB 
+https://01.org/tbb/ 
 
 
 **Available Versions**:: 
 
 
-    2020.3-GCCcore-10.2.0
     2020.1-GCCcore-9.3.0
-    2018_U5-GCCcore-7.3.0
     2020.3-GCCcore-11.2.0
     2019_U9-GCCcore-8.3.0
+    2018_U5-GCCcore-7.3.0
+    2020.3-GCCcore-10.2.0
 
 
 
@@ -16787,18 +16631,6 @@ https://github.com/tesseract-ocr/tesseract
 testapp
 ------- 
 
-
-
-**Description** 
-
-
- 
-
-
-**More Information** 
-
-
- 
 
 
 **Available Versions**:: 
@@ -16924,8 +16756,8 @@ https://github.com/python/typing/blob/master/typing_extensions/README.rst
 **Available Versions**:: 
 
 
-    3.7.4.3-GCCcore-10.2.0
     3.10.0.0-GCCcore-10.3.0
+    3.7.4.3-GCCcore-10.2.0
 
 
 
@@ -16967,19 +16799,19 @@ Set of Linux utilities
 **More Information** 
 
 
-http://www.kernel.org/pub/linux/utils/util-linux 
+https://www.kernel.org/pub/linux/utils/util-linux 
 
 
 **Available Versions**:: 
 
 
-    2.32-GCCcore-7.3.0
-    2.33-GCCcore-8.2.0
+    2.34-GCCcore-8.3.0
     2.35-GCCcore-9.3.0
+    2.37-GCCcore-11.2.0
     2.36-GCCcore-10.2.0
     2.36-GCCcore-10.3.0
-    2.34-GCCcore-8.3.0
-    2.37-GCCcore-11.2.0
+    2.32-GCCcore-7.3.0
+    2.33-GCCcore-8.2.0
 
 
 
@@ -17051,11 +16883,11 @@ https://www.videolan.org/developers/x264.html
 **Available Versions**:: 
 
 
+    20210414-GCCcore-10.3.0
     20201026-GCCcore-10.2.0
-    20190925-GCCcore-8.3.0
     20191217-GCCcore-9.3.0
     20190413-GCCcore-8.2.0
-    20210414-GCCcore-10.3.0
+    20190925-GCCcore-8.3.0
 
 
 
@@ -17079,11 +16911,11 @@ https://x265.org/
 **Available Versions**:: 
 
 
+    3.5-GCCcore-10.3.0
     3.3-GCCcore-9.3.0
     3.3-GCCcore-10.2.0
-    3.0-GCCcore-8.2.0
-    3.5-GCCcore-10.3.0
     3.2-GCCcore-8.3.0
+    3.0-GCCcore-8.2.0
 
 
 
@@ -17108,13 +16940,13 @@ https://cgit.freedesktop.org/xorg/util/macros
 
 
     1.19.2-GCCcore-8.2.0
-    1.19.2-GCCcore-9.3.0
-    1.19.3-GCCcore-11.3.0
-    1.19.2-GCCcore-8.3.0
     1.19.3-GCCcore-11.2.0
-    1.19.2-GCCcore-10.2.0
-    1.19.2-GCCcore-7.3.0
+    1.19.2-GCCcore-9.3.0
     1.19.3-GCCcore-10.3.0
+    1.19.2-GCCcore-8.3.0
+    1.19.2-GCCcore-7.3.0
+    1.19.3-GCCcore-11.3.0
+    1.19.2-GCCcore-10.2.0
 
 
 
@@ -17132,15 +16964,15 @@ The xprop utility is for displaying window and font properties in an X server. O
 **More Information** 
 
 
-https://www.x.org/wiki/ 
+http://www.x.org/wiki/ 
 
 
 **Available Versions**:: 
 
 
+    1.2.3-GCCcore-7.3.0
     1.2.4-GCCcore-8.3.0
     1.2.5-GCCcore-10.2.0
-    1.2.3-GCCcore-7.3.0
 
 
 
@@ -17152,7 +16984,7 @@ xtb
 **Description** 
 
 
-xtb - An extended tight-binding semi-empirical program package.  
+Semiempirical Extended Tight-Binding Program Package. 
 
 
 **More Information** 
@@ -17164,8 +16996,8 @@ https://xtb-docs.readthedocs.io
 **Available Versions**:: 
 
 
-    6.3.3-GCCcore-9.3.0
     6.4.1-intel-2021a
+    6.3.3-GCCcore-9.3.0
 
 
 
@@ -17238,20 +17070,20 @@ http://www.zlib.net/
 **Available Versions**:: 
 
 
+    1.2.11-GCCcore-8.2.0
     1.2.11-GCCcore-8.1.0
+    1.2.11-GCCcore-7.3.0
     1.2.11-intel-2020a
-    1.2.11-GCCcore-11.2.0
-    1.2.12-GCCcore-11.3.0
     1.2.8
+    1.2.11-GCCcore-8.3.0
+    1.2.11-GCCcore-11.2.0
     1.2.8-GCC-7.3.0-2.30
     1.2.11
-    1.2.12
-    1.2.11-GCCcore-8.2.0
-    1.2.11-GCCcore-7.3.0
-    1.2.11-GCCcore-10.2.0
-    1.2.11-GCCcore-9.3.0
     1.2.11-GCCcore-10.3.0
-    1.2.11-GCCcore-8.3.0
+    1.2.11-GCCcore-9.3.0
+    1.2.12
+    1.2.11-GCCcore-10.2.0
+    1.2.12-GCCcore-11.3.0
 
 
 
@@ -17275,13 +17107,11 @@ https://facebook.github.io/zstd
 **Available Versions**:: 
 
 
-    1.4.4-GCCcore-9.3.0
     1.4.9-GCCcore-10.3.0
-    1.4.5-GCCcore-10.2.0
     1.4.4-GCCcore-8.3.0
+    1.4.5-GCCcore-10.2.0
+    1.4.4-GCCcore-9.3.0
     1.5.0-GCCcore-11.2.0
-
-
 
 
 
