@@ -19,12 +19,16 @@ with open('modules.rst','w') as op:
     
 # Iterate though all the module names
     for modName in modlist.get_names():
+       descString=modlist.get_key(modName,"Description")[0];
+       infoString=modlist.get_key(modName,"URL")[0];
        print (modName)
        print ("-"*(len(modName)),"\n"*3)
-       print ("**Description**","\n"*2)
-       print (modlist.get_key(modName,"Description")[0].replace("\n",""),"\n"*2)
-       print ("**More Information**","\n"*2)
-       print (modlist.get_key(modName,"URL")[0],"\n"*2)
+       if descString:
+          print ("**Description**","\n"*2)
+          print (descString.replace("\n",""),"\n"*2)
+       if infoString:
+          print ("**More Information**","\n"*2)
+          print (infoString,"\n"*2)
        print ("**Available Versions**::","\n"*2)
        for version in modlist.get_all_versions(modName):
            print("   ",version)
