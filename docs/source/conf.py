@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    "sphinx_favicon",
+#    "sphinx_favicon",
 ]
 
 intersphinx_mapping = {
@@ -30,16 +30,16 @@ templates_path = ['_templates']
 pygments_style = 'sphinx'
 
 # -- Options for HTML output
-favicons = [
-    "favicon16.png",
-    "favicon32.png",
-    "favicon96.png",
-    "favicon160.png",
-    "arc_icon.svg",
-]
+#favicons = [
+#    "favicon16.png",
+#    "favicon32.png",
+#    "favicon96.png",
+#    "favicon160.png",
+#    "arc_icon.svg",
+#]
 
 html_theme = 'sphinx_rtd_theme'
-#html_favicon = 'favicon.ico'
+html_favicon = 'favicon.ico'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
