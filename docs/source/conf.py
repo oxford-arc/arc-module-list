@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'arc-module-list'
-copyright = u'2021–2024'
+project = 'ARC Module List'
+copyright = u'2021–2024 — The University of Oxford'
 author = 'The ARC Team'
 
 release = '2024'

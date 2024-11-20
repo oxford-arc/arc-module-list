@@ -11,7 +11,7 @@
 }
 
 img.logo {
-    max-width: 80%;
+    max-width: 80% !important;
 }
 
 .wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a {
