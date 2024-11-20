@@ -32,6 +32,7 @@ pygments_style = 'sphinx'
 templates_path = ['_templates']
 
 # -- Options for HTML output
+
 html_theme = 'sphinx_rtd_theme'
 html_favicon = 'favicon.ico'
 html_theme_options = {
@@ -56,7 +57,6 @@ favicons = [
     {"href": "favicon96.png"},
     {"href": "favicon160.png"},
 ]
-
 
 #html_show_copyright = False
 html_show_sphinx = False
