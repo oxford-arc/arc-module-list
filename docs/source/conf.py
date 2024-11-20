@@ -40,6 +40,10 @@ pygments_style = 'sphinx'
 
 html_theme = 'sphinx_rtd_theme'
 html_favicon = 'favicon.ico'
+html_theme_options = {
+    'version_selector': False,
+    'language_selector': False,
+}
 
 # -- ARC Customisations
 
