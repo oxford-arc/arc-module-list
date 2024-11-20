@@ -17,7 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-#    "sphinx_favicon",
+    'sphinx.ext.autosectionlabel',
+    "sphinx_favicon",
 ]
 
 intersphinx_mapping = {
@@ -26,18 +27,11 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-templates_path = ['_templates']
 pygments_style = 'sphinx'
 
-# -- Options for HTML output
-#favicons = [
-#    "favicon16.png",
-#    "favicon32.png",
-#    "favicon96.png",
-#    "favicon160.png",
-#    "arc_icon.svg",
-#]
+templates_path = ['_templates']
 
+# -- Options for HTML output
 html_theme = 'sphinx_rtd_theme'
 html_favicon = 'favicon.ico'
 html_theme_options = {
@@ -55,6 +49,14 @@ html_static_path = ['_static']
 html_css_files = [
     'css/arc_theme.css',
 ]
+favicons = [
+    {"href": "arc_icon.svg"},
+    {"href": "favicon16.png"},
+    {"href": "favicon32.png"},
+    {"href": "favicon96.png"},
+    {"href": "favicon160.png"},
+]
+
 
 #html_show_copyright = False
 html_show_sphinx = False
