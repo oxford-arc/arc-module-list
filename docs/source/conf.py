@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'arc-module-list'
-
+copyright = u'2021–2024'
 author = 'The ARC Team'
 
-release = '0.1'
-version = '0.1.0'
+release = '2024'
+version = '2024.05.20'
 
 # -- General configuration
 
@@ -40,6 +40,20 @@ pygments_style = 'sphinx'
 
 html_theme = 'sphinx_rtd_theme'
 html_favicon = 'favicon.ico'
+
+# -- ARC Customisations
+
+html_logo = 'images/arc_logo-wide-white.svg'
+
+# -- Add ARC theme overrides...
+# This will be found in source/_static (as defined above)
+html_static_path = ['_static']
+html_css_files = [
+    'css/arc_theme.css',
+]
+
+#html_show_copyright = False
+html_show_sphinx = False
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
