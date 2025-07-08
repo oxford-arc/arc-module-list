@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'ARC Module List'
-copyright = u'2021–2024 — The University of Oxford'
+copyright = u'2021–%Y — The University of Oxford'
 author = 'The ARC Team'
 
-release = '2024'
-version = '2024.05.20'
+release = '2025'
+version = '2025.04.02'
 
 # -- General configuration
 
@@ -19,6 +19,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
     "sphinx_favicon",
+    "sphinx_rtd_dark_mode",
 ]
 
 intersphinx_mapping = {
