@@ -2,7 +2,7 @@
 # Update module list page
 # 
 
-module load Anaconda3
+module load Anaconda3/2023.09-0
 
 echo "Building new module list..."
 
